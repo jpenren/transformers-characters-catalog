@@ -8,7 +8,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Peter Cullen and Laurie Faso (as Orion Pax)",
    "status": "Alive (Dead in Headmasters) (Alive in Masterforce)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -19,7 +19,7 @@
    "lastAppearance": "Was rebuilt into Goldbug in The Return of Optimus Prime, Part 2 and last appeared in The Rebirth Part 3",
    "voicedBy": "Dan Gilvezan",
    "status": "Reformed (Goldbug)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -30,7 +30,7 @@
    "lastAppearance": "Five Faces of Darkness (Part 1) (Casey Kasem left the show during season 3 due to objection to the portrayal of Arab characters as stereotypical villains.)",
    "voicedBy": "Casey Kasem and Don Messick (The Immobilizer)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -41,7 +41,7 @@
    "lastAppearance": "Found dead by Arcee in The Transformers: The Movie",
    "voicedBy": "Christopher Collins",
    "status": "Dead (Alive in Victory)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -52,7 +52,7 @@
    "lastAppearance": "Killed by Scavenger in The Transformers: The Movie (His appearance in Headmasters could be considered an animation error).",
    "voicedBy": "Michael Bell",
    "status": "Dead",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -63,7 +63,7 @@
    "lastAppearance": "Call of the Primitives",
    "voicedBy": "Scatman Crothers and Wally Burr (Kremzeek!)",
    "status": "Alive, later appeared in Transformers headmasters",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -74,7 +74,7 @@
    "lastAppearance": "Masquerade.",
    "voicedBy": "Michael Bell",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -85,7 +85,7 @@
    "lastAppearance": "killed by Megatron gun mode held by Starscream",
    "voicedBy": "Don Messick and Wally Burr (Masquerade)",
    "status": "Dead",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -96,7 +96,7 @@
    "lastAppearance": "The Transformers: The Movie (Killed by Megatron offscreen with a point-blank blast to the head from his fusion cannon)",
    "voicedBy": "Peter Cullen",
    "status": "Dead",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -107,7 +107,7 @@
    "lastAppearance": "Rodimus Prime The Return of Optimus Prime (Part 2) Hot Rod The Rebirth (Part 3)",
    "voicedBy": "Dick Gautier (TV series), Judd Nelson (movie) and Ted Schwartz (Rodimus Prime, Five Faces of Darkness)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -118,7 +118,7 @@
    "lastAppearance": "The Burden Hardest to Bear",
    "voicedBy": "Neil Ross",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -129,7 +129,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Lionel Stander (movie) and John Stephenson (TV series)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -140,7 +140,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Robert Stack (film) and Jack Angel (TV series)",
    "status": "Alive (Dead in Headmasters)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -151,7 +151,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "John Moschitta, Jr.",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -162,7 +162,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Susan Blu",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -173,7 +173,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2)",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Main Character"
  },
  {
@@ -184,7 +184,7 @@
    "lastAppearance": "Transformers: The Movie. Later appeared in Transformers: Headmasters.",
    "voicedBy": "Ken Sansom",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -195,7 +195,7 @@
    "lastAppearance": "Masquerade. Early script for Transformers: The Movie shows him being blown up by Megeatron.",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -206,7 +206,7 @@
    "lastAppearance": "Cosmic Rust. Early script for Transformers:The Movie shows his dead body as the Decepticons retreated from Autobot City.",
    "voicedBy": "Frank Welker",
    "status": "Unknown (possibly dead)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -217,7 +217,7 @@
    "lastAppearance": "The Transformers: The Movie. Later appeared in Transformers: Headmasters (In Japan).",
    "voicedBy": "Corey Burton",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -228,7 +228,7 @@
    "lastAppearance": "He was last seen helping Kup put up the barricades in \"The Transformers: The Movie\". It's unknown whether or not he made it back to Autobot City in time.",
    "voicedBy": "Casey Kasem",
    "status": "Unknown (possibly dead)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -239,7 +239,7 @@
    "lastAppearance": "\"Scramble City\". Survived battle of Autobot City in \"The Transformers: The Movie\" but did not make final cut.",
    "voicedBy": "Michael McConnohie",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -250,7 +250,7 @@
    "lastAppearance": "Seen briefly in The Transformers: The Movie",
    "voicedBy": "Peter Renaday",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -261,7 +261,7 @@
    "lastAppearance": "The Revenge of Bruticus Storyboards for Transformers: The Movie show Red Alert killed by the Constructicons after helping Sideswipe, Tracks, and Ultra Magnus stop Devastator. The scene was cut out of the Battle of Autobot City.",
    "voicedBy": "Michael Chain",
    "status": "Unknown (possibly dead)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -272,7 +272,7 @@
    "lastAppearance": "Scramble City. In the original Storyboards for Transformers: The Movie, it was Smokescreen who lay dead, rather than Wheeljack (Though Wheeljack's corpse is painted with Smokescreen's color scheme when Springer enters the room before the shot changes to focus on Arcee moving Windcharger's body). Later seen in Transformers: Headmasters (in Japan)",
    "voicedBy": "Jack Angel",
    "status": "Unknown (possibly alive)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -283,7 +283,7 @@
    "lastAppearance": "Scramble city",
    "voicedBy": "Michael Chain",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -294,7 +294,7 @@
    "lastAppearance": "Scramble City, but was credited in \"The Transformers: The Movie\"",
    "voicedBy": "Walker Edmiston",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -305,7 +305,7 @@
    "lastAppearance": "Triple Takeover",
    "voicedBy": "Michael Chain (Quest for Survival) and Dan Gilvezan (Triple Takeover)",
    "status": "Unknown (possibly dead)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Autobot Car"
  },
  {
@@ -316,7 +316,7 @@
    "lastAppearance": "Was found dead by Arcee in The Transformers: The Movie. Appeared in Call of the Primitives as an animation error.",
    "voicedBy": "John Stephenson",
    "status": "Dead",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -327,7 +327,7 @@
    "lastAppearance": "Killed by Megatron in gun mode held by Starscream in Transformers: The Movie Appeared in carnage in c-minor as an animation error.",
    "voicedBy": "Corey Burton",
    "status": "Dead",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -338,7 +338,7 @@
    "lastAppearance": "The Transformers: The Movie. He was last seen helping Kup put up barricades in the film. He received offscreen damage and was mentioned dead by Daniel Witwicky in Dark Awakening.",
    "voicedBy": "John Stephenson",
    "status": "Dead",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -349,7 +349,7 @@
    "lastAppearance": "\"The Transformers: The Movie\" It's likely he was killed when Unicron attacked Moon base 1 since he wasn't seen on the shuttle that came to Earth.",
    "voicedBy": "Don Messick",
    "status": "Unknown (possibly dead)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -360,7 +360,7 @@
    "lastAppearance": "Ghost in the Machine",
    "voicedBy": "Alan Oppenheimer",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -371,7 +371,7 @@
    "lastAppearance": "Thief in the Night",
    "voicedBy": "Alan Oppenheimer and Wally Burr (PSA)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -382,7 +382,7 @@
    "lastAppearance": "Ghost in the Machine",
    "voicedBy": "Michael Chain",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -393,7 +393,7 @@
    "lastAppearance": "Five Faces of Darkness (Part 5)",
    "voicedBy": "Alan Oppenheimer",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -404,7 +404,7 @@
    "lastAppearance": "Grimlock's New Brain",
    "voicedBy": "Michael McConnohie",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -415,7 +415,7 @@
    "lastAppearance": "The Quintesson Journal",
    "voicedBy": "Dan Gilvezan (Five Faces of Darkness) and Gregg Berger (The Quintesson Journal)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -426,7 +426,7 @@
    "lastAppearance": "Forever Is a Long Time Coming",
    "voicedBy": "Hal Rayle",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -437,7 +437,7 @@
    "lastAppearance": "Forever Is a Long Time Coming",
    "voicedBy": "None",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -448,7 +448,7 @@
    "lastAppearance": "Five Faces of Darkness (Part 5), only appearance",
    "voicedBy": "Ted Schwartz",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Mini-Bot"
  },
  {
@@ -459,7 +459,7 @@
    "lastAppearance": "Day of the Machines A ship that looks like Skyfire was seen and destroyed in \"Dark Awakening\". It is unknown if this was really Skyfire.",
    "voicedBy": "Gregg Berger",
    "status": "Unknown (possibly dead)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -470,7 +470,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2)",
    "voicedBy": "Buster Jones",
    "status": "Alive (Later killed and rebuilt into Twincast in Transformers Headmasters.)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -481,7 +481,7 @@
    "lastAppearance": "The Face of Nijika Later appeared in Transformers: Victory (In Japan).",
    "voicedBy": "Paul Eiding",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -492,7 +492,7 @@
    "lastAppearance": "The Big Broadcast of 2006",
    "voicedBy": "Jack Angel",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -503,7 +503,7 @@
    "lastAppearance": "The Gambler, only appearance",
    "voicedBy": "John Stephenson",
    "status": "Unknown",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -514,7 +514,7 @@
    "lastAppearance": "Sacrifices himself in The Key to Vector Sigma (Part 2). Last Seen in The Rebirth (Part 3) as part of Vector Sigma.",
    "voicedBy": "John Stephenson, Corey Burton (War Dawn) and Tony Pope (A3, Forever is a Long Time Coming)",
    "status": "Part of Vector Sigma (Later appears as a ghost in Transformers Headmasters)",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -525,7 +525,7 @@
    "lastAppearance": "The Burden Hardest to Bear",
    "voicedBy": "Bill Martin",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -536,7 +536,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Bud Davis and Ron Feinberg (Five Faces of Darkness, Part 5)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -547,7 +547,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2)",
    "voicedBy": "Aron Kincaid",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -558,7 +558,7 @@
    "lastAppearance": "The Rebirth (Part 2)",
    "voicedBy": "John Moschitta, Jr.",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -569,7 +569,7 @@
    "lastAppearance": "Starscream's Ghost",
    "voicedBy": "Jerry Houser",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -580,7 +580,7 @@
    "lastAppearance": "Forever Is a Long Time Coming, only appearance",
    "voicedBy": "Susan Blu",
    "status": "Unknown",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Other"
  },
  {
@@ -591,7 +591,7 @@
    "lastAppearance": "Call Of The Primitives",
    "voicedBy": "Gregg Berger",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Dinobot"
  },
  {
@@ -602,7 +602,7 @@
    "lastAppearance": "Call Of The Primitives",
    "voicedBy": "Neil Ross",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Dinobot"
  },
  {
@@ -613,7 +613,7 @@
    "lastAppearance": "Call of the Primitives",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Dinobot"
  },
  {
@@ -624,7 +624,7 @@
    "lastAppearance": "Call Of The Primitives",
    "voicedBy": "Hal Rayle",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Dinobot"
  },
  {
@@ -635,7 +635,7 @@
    "lastAppearance": "Call of the Primitives",
    "voicedBy": "Michael Bell",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Dinobot"
  },
  {
@@ -646,7 +646,7 @@
    "lastAppearance": "Was wounded by Sixshot in The Rebirth (Part 1) and rebuilt into engines to move Cybertron in The Rebirth (Part 3)",
    "voicedBy": "Charlie Adler",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Aerialbot"
  },
  {
@@ -657,7 +657,7 @@
    "lastAppearance": "Was wounded by Sixshot in The Rebirth (Part 1) and rebuilt into engines to move Cybertron in The Rebirth (Part 2)",
    "voicedBy": "Rob Paulsen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Aerialbot"
  },
  {
@@ -668,7 +668,7 @@
    "lastAppearance": "Was wounded by Sixshot in The Rebirth (Part 1) and rebuilt into engines to move Cybertron in The Rebirth (Part 2)",
    "voicedBy": "Rob Paulsen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Aerialbot"
  },
  {
@@ -679,7 +679,7 @@
    "lastAppearance": "Was wounded by Sixshot in The Rebirth (Part 1) and rebuilt into engines to move Cybertron in The Rebirth (Part 2)",
    "voicedBy": "Laurie Faso",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Aerialbot"
  },
  {
@@ -690,7 +690,7 @@
    "lastAppearance": "Was wounded by Sixshot in The Rebirth (Part 1) and rebuilt into engines to move Cybertron in The Rebirth (Part 3) |",
    "voicedBy": "Jeff Mackay",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Aerialbot"
  },
  {
@@ -701,7 +701,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Ed Gilbert and Frank Welker (The Key to Vector Sigma)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Aerialbot"
  },
  {
@@ -712,7 +712,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Peter Cullen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Protectobots"
  },
  {
@@ -723,7 +723,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Protectobots"
  },
  {
@@ -734,7 +734,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Michael Bell",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Protectobots"
  },
  {
@@ -745,7 +745,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Dan Gilvezan",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Protectobots"
  },
  {
@@ -756,7 +756,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Protectobots"
  },
  {
@@ -767,7 +767,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Christopher Collins",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Protectobots"
  },
  {
@@ -778,7 +778,7 @@
    "lastAppearance": "War Dawn (Ariel)",
    "voicedBy": "Marlene Aragon and Samantha Newark (Ariel)",
    "status": "Unknown",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Female Autobot"
  },
  {
@@ -789,7 +789,7 @@
    "lastAppearance": "The Search for Alpha Trion",
    "voicedBy": "Linda Gary",
    "status": "Unknown",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Female Autobot"
  },
  {
@@ -800,7 +800,7 @@
    "lastAppearance": "The Search for Alpha Trion",
    "voicedBy": "Morgan Lofting",
    "status": "Unknown",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Female Autobot"
  },
  {
@@ -811,7 +811,7 @@
    "lastAppearance": "The Search for Alpha Trion",
    "voicedBy": "Morgan Lofting",
    "status": "Unknown",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Female Autobot"
  },
  {
@@ -822,7 +822,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "David Workman",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Technobot"
  },
  {
@@ -833,7 +833,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Danny Mann",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Technobot"
  },
  {
@@ -844,7 +844,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Steve Bulen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Technobot"
  },
  {
@@ -855,7 +855,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Stephen Keener",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Technobot"
  },
  {
@@ -866,7 +866,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Jim Cummings",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Technobot"
  },
  {
@@ -877,7 +877,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Bert Kramer",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Technobot"
  },
  {
@@ -888,7 +888,7 @@
    "lastAppearance": "The Rebirth Part 3",
    "voicedBy": "Rob Paulsen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Throttlebot"
  },
  {
@@ -899,7 +899,7 @@
    "lastAppearance": "The Rebirth Part 3",
    "voicedBy": "Danny Mann",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Throttlebot"
  },
  {
@@ -910,7 +910,7 @@
    "lastAppearance": "Was rebuilt from Bumblebee into Goldbug in The Return of Optimus Prime, Part 2 and last appeared in The Rebirth Part 3.",
    "voicedBy": "Dan Gilvezan",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Throttlebot"
  },
  {
@@ -921,7 +921,7 @@
    "lastAppearance": "The Rebirth Part 1",
    "voicedBy": "Dan Gilvezan",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Throttlebot"
  },
  {
@@ -932,7 +932,7 @@
    "lastAppearance": "The Rebirth Part 3",
    "voicedBy": "Steve Bulen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Throttlebot"
  },
  {
@@ -943,7 +943,7 @@
    "lastAppearance": "The Rebirth Part 1",
    "voicedBy": "Corey Burton",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Throttlebot"
  },
  {
@@ -954,7 +954,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Steve Bulen",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Targetmaster"
  },
  {
@@ -965,7 +965,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Neil Ross",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Targetmaster"
  },
  {
@@ -976,7 +976,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Neil Ross",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Targetmaster"
  },
  {
@@ -987,7 +987,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Stephen Keener",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Headmaster"
  },
  {
@@ -998,7 +998,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Headmaster"
  },
  {
@@ -1009,7 +1009,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Michael Bell",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Headmaster"
  },
  {
@@ -1020,7 +1020,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Johnny Haymer",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Headmaster"
  },
  {
@@ -1031,7 +1031,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Jered Barclay",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Headmaster"
  },
  {
@@ -1042,7 +1042,7 @@
    "lastAppearance": "The Rebirth (Part 3), only appearance",
    "voicedBy": "Stephen Keener",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Headmaster"
  },
  {
@@ -1053,7 +1053,7 @@
    "lastAppearance": "The Rebirth (Part 2)",
    "voicedBy": "Rob Paulsen (Fastlane), Danny Mann (Cloudraker)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Clonebot"
  },
  {
@@ -1064,7 +1064,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Eric Idle (movie) and Tony Pope (TV series)",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Junkion"
  },
  {
@@ -1075,7 +1075,7 @@
    "lastAppearance": "The Big Broadcast of 2006",
    "voicedBy": "Jerry Houser",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Junkion"
  },
  {
@@ -1086,7 +1086,7 @@
    "lastAppearance": "The Big Broadcast of 2006",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Junkion"
  },
  {
@@ -1097,7 +1097,7 @@
    "lastAppearance": "The Big Broadcast of 2006",
    "voicedBy": "Linda Gary",
    "status": "Alive",
-   "kind": "Autobot",
+   "faction": "Autobot",
    "category": "Junkion"
  },
  {
@@ -1108,7 +1108,7 @@
    "lastAppearance": "Turned into Galvatron in The Transformers: The Movie. Last seen in The Return of Optimus Prime, Part 1 in a flashback.",
    "voicedBy": "Frank Welker",
    "status": "Reformed (Galvatron)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1119,7 +1119,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Frank Welker and Hal Rayle (Fight or Flee)",
    "status": "Alive (Killed and rebuilt into Soundblaster in Transformers: Headmasters.)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1130,7 +1130,7 @@
    "lastAppearance": "Transformers: The Movie. (Early scripts for Transformers: The Movie say he was killed during Unicron's attack on Cybertron but the scene didn't make the final cut).",
    "voicedBy": "Corey Burton",
    "status": "Unknown (most likely dead)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1141,7 +1141,7 @@
    "lastAppearance": "Turned into one of the two Cyclonus' in The Transformers: The Movie. Was seen in Starscream's coronation due to an animation error.",
    "voicedBy": "Frank Welker",
    "status": "Reformed (Cyclonus)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1152,7 +1152,7 @@
    "lastAppearance": "Killed by Galvatron in The Transformers: The Movie. Later revived by Unicron in Ghost in the Machine",
    "voicedBy": "Christopher Collins",
    "status": "Alive (Ghost)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1163,7 +1163,7 @@
    "lastAppearance": "Turned into Scourge in The Transformers: The Movie. Was seen in Starscream's coronation due to an animation error.",
    "voicedBy": "John Stephenson and Wally Burr (War Dawn)",
    "status": "Reformed (Scourge)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1174,7 +1174,7 @@
    "lastAppearance": "Transformers:The Movie",
    "voicedBy": "Christopher Collins",
    "status": "Unknown (possibly dead)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Main Character"
  },
  {
@@ -1185,7 +1185,7 @@
    "lastAppearance": "Turned into a sweep in Transformers: The Movie. Last seen in Five Faces of Darkness (Part 5) (as an animation error).",
    "voicedBy": "Hal Rayle",
    "status": "Reformed (Sweep)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Insecticon"
  },
  {
@@ -1196,7 +1196,7 @@
    "lastAppearance": "Turned into one of the two Cyclonus' in Transformers: The Movie. Last seen in Thief in the Night due to animation error.",
    "voicedBy": "Michael Bell",
    "status": "Reformed (Cyclonus)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Insecticon"
  },
  {
@@ -1207,7 +1207,7 @@
    "lastAppearance": "Turned into a Sweep in The Transformers: The Movie. Last seen in Five Faces of Darkness (Part 5) due to an animation error.",
    "voicedBy": "Clive Revill",
    "status": "Reformed (Sweep)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Insecticon"
  },
  {
@@ -1218,7 +1218,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Neil Ross and Corey Burton (Day of the Machines)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1229,7 +1229,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Michael Bell",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1240,7 +1240,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Neil Ross and Michael Bell (The Autobot Run)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1251,7 +1251,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Gregg Berger",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1262,7 +1262,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Don Messick",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1273,7 +1273,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Frank Welker",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1284,7 +1284,7 @@
    "lastAppearance": "The Burden Hardest to Bear",
    "voicedBy": "Arthur Burghardt",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Constructicon"
  },
  {
@@ -1295,7 +1295,7 @@
    "lastAppearance": "Ghost in the Machine. Originally was killed by Unicron in \"Transformers: The Movie\", yet popped up in later episodes.",
    "voicedBy": "Ed Gilbert",
    "status": "Supposed to be dead.",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Conehead"
  },
  {
@@ -1306,7 +1306,7 @@
    "lastAppearance": "Thief in the Night. Originally was killed by Unicron in \"The Transformers: The Movie\", but popped up in later episodes.",
    "voicedBy": "Jack Angel",
    "status": "Supposed to be dead.",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Conehead"
  },
  {
@@ -1317,7 +1317,7 @@
    "lastAppearance": "Ghost in the Machine. Originally was killed by Unicron in \"The Transformers: The Movie\" yet popped up in later episodes.",
    "voicedBy": "Bud Davis",
    "status": "Supposed to be dead.",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Conehead"
  },
  {
@@ -1328,7 +1328,7 @@
    "lastAppearance": "Call of the Primitives",
    "voicedBy": "Brad Garrett",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Decepticon City"
  },
  {
@@ -1339,7 +1339,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Roger C. Carmel",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Stunticon"
  },
  {
@@ -1350,7 +1350,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Ron Gans",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Stunticon"
  },
  {
@@ -1361,7 +1361,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Philip L. Clarke",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Stunticon"
  },
  {
@@ -1372,7 +1372,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Alan Oppenheimer and Jack Angel (The Key to Vector Sigma)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Stunticon"
  },
  {
@@ -1383,7 +1383,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Terry McGovern",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Stunticon"
  },
  {
@@ -1394,7 +1394,7 @@
    "lastAppearance": "The Ultimate Weapon",
    "voicedBy": "Regis Cordic and Roger C. Carmel (The Key to Vector Sigma)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Stunticon"
  },
  {
@@ -1405,7 +1405,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Tony St. James",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Combaticon"
  },
  {
@@ -1416,7 +1416,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Johnny Haymer",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Combaticon"
  },
  {
@@ -1427,7 +1427,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Milt Jamin",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Combaticon"
  },
  {
@@ -1438,7 +1438,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Johnny Haymer",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Combaticon"
  },
  {
@@ -1449,7 +1449,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "S. Marc Jordan and Steve Bulen (The Rebirth)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Combaticon"
  },
  {
@@ -1460,7 +1460,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 1)",
    "voicedBy": "Roger C. Carmel",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Combaticon"
  },
  {
@@ -1471,7 +1471,7 @@
    "lastAppearance": "The Rebirth (Part 3) Later killed in Transformers: Headmasters (in Japan).",
    "voicedBy": "Leonard Nimoy (movie) and Frank Welker (TV series)",
    "status": "Alive (Dead in Transformers: Headmasters)",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Herald of Unicron"
  },
  {
@@ -1482,7 +1482,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Roger C. Carmel and Jack Angel (The Return of Optimus Prime and Season 4)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Herald of Unicron"
  },
  {
@@ -1493,7 +1493,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Stan Jones",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Herald of Unicron"
  },
  {
@@ -1504,7 +1504,7 @@
    "lastAppearance": "The Return of Optimus Prime Part 2",
    "voicedBy": "Multiple actors.",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Herald of Unicron"
  },
  {
@@ -1515,7 +1515,7 @@
    "lastAppearance": "Went into exile after Starscream's Ghost. Last seen in The Ultimate Weapon",
    "voicedBy": "Beau Weaver",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Multi Changer"
  },
  {
@@ -1526,7 +1526,7 @@
    "lastAppearance": "Went into exile after Five Faces of Darkness (Part 5). Last seen in The Ultimate Weapon.",
    "voicedBy": "Ed Gilbert",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Multi Changer"
  },
  {
@@ -1537,7 +1537,7 @@
    "lastAppearance": "The Burden Hardest to Bear",
    "voicedBy": "Jack Angel",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Multi Changer"
  },
  {
@@ -1548,7 +1548,7 @@
    "lastAppearance": "The Rebirth (Part 1)",
    "voicedBy": "Neil Ross",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Multi Changer"
  },
  {
@@ -1559,7 +1559,7 @@
    "lastAppearance": "Call of the Primitives",
    "voicedBy": "Philip L. Clarke",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Predacon"
  },
  {
@@ -1570,7 +1570,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2) and Call of the Primitives",
    "voicedBy": "Laurie Faso",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Predacon"
  },
  {
@@ -1581,7 +1581,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2) and Call of the Primitives",
    "voicedBy": "Ron Feinberg",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Predacon"
  },
  {
@@ -1592,7 +1592,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2) and Call of the Primitives",
    "voicedBy": "Joe Leahy",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Predacon"
  },
  {
@@ -1603,7 +1603,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2) and Call of the Primitives",
    "voicedBy": "Laurie Faso",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Predacon"
  },
  {
@@ -1614,7 +1614,7 @@
    "lastAppearance": "The Return of Optimus Prime (Part 2)",
    "voicedBy": "Bud Davis",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Predacon"
  },
  {
@@ -1625,7 +1625,7 @@
    "lastAppearance": "Ghost in the Machine",
    "voicedBy": "Roger Behr",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Battlecharger"
  },
  {
@@ -1636,7 +1636,7 @@
    "lastAppearance": "Ghost in the Machine, only appearance",
    "voicedBy": "Roger Behr",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Battlecharger"
  },
  {
@@ -1647,7 +1647,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Jim Cummings",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Terrorcon"
  },
  {
@@ -1658,7 +1658,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Tony St. James",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Terrorcon"
  },
  {
@@ -1669,7 +1669,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Jared Barclay and David Workman",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Terrorcon"
  },
  {
@@ -1680,7 +1680,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Tony St. James",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Terrorcon"
  },
  {
@@ -1691,7 +1691,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Marshall Efron (beast mode) and Stephen Keener (robot mode)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Terrorcon"
  },
  {
@@ -1702,7 +1702,7 @@
    "lastAppearance": "The Rebirth (Part 2)",
    "voicedBy": "Jim Gosa",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Terrorcon"
  },
  {
@@ -1713,7 +1713,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Peter Cullen",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Targetmaster"
  },
  {
@@ -1724,7 +1724,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Charlie Adler",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Targetmaster"
  },
  {
@@ -1735,7 +1735,7 @@
    "lastAppearance": "The Rebirth (Part 3).",
    "voicedBy": "Stan Jones",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Targetmaster"
  },
  {
@@ -1746,7 +1746,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Stephen Keener",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Headmaster"
  },
  {
@@ -1757,7 +1757,7 @@
    "lastAppearance": "The Rebirth (part 3)",
    "voicedBy": "Stan Jones (animal noises only)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Headmaster"
  },
  {
@@ -1768,7 +1768,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Christopher Collins",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Headmaster"
  },
  {
@@ -1779,7 +1779,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Stephen Keener",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Headmaster"
  },
  {
@@ -1790,7 +1790,7 @@
    "lastAppearance": "The Rebirth (Part 3)",
    "voicedBy": "Dick Gautier",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Horrorcon"
  },
  {
@@ -1801,7 +1801,7 @@
    "lastAppearance": "The Rebirth (Part 2)",
    "voicedBy": "Dan Gilvezan",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Horrorcon"
  },
  {
@@ -1812,7 +1812,7 @@
    "lastAppearance": "The Rebirth (Part 1), only appearance",
    "voicedBy": "Stan Jones (Pounce), Peter Cullen (Wingspan)",
    "status": "Alive",
-   "kind": "Decepticon",
+   "faction": "Decepticon",
    "category": "Clonecon"
  }
 ]
