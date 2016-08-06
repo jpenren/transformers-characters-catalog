@@ -1,0 +1,10 @@
+<md-list>
+    <md-list-item class="md-3-line" ng-href="#/characters/{{$ctrl.faction}}/{{character.name}}" ng-repeat="character in $ctrl.characters | filter:$ctrl.searchFilter" >
+        <character-images character="character" number-of-images="1" thumbnail="true" css-class="md-avatar"></character-images>
+        <div class="md-list-item-text" layout="column">
+            <h3>{{character.name}}</h3>
+            <p>{{character.alternateMode}}</p>
+        </div>
+        <md-divider inset></md-divider>
+    </md-list-item>
+</md-list>

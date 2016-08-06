@@ -1,0 +1,10 @@
+
+faction-selector .faction-container{
+    margin: auto;
+}
+faction-selector .faction-container p{
+   text-align: center;
+}
+faction-selector .faction-logo{
+    max-width: 100px;
+}

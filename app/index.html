@@ -3,9 +3,11 @@
   <head>
     <meta charset="utf-8">
     <title>My HTML File</title>
+    <!-- build:css(.) styles/vendor.css -->
     <!-- bower:css -->
     <link rel="stylesheet" href="bower_components/angular-material/angular-material.css" />
     <!-- endbower -->
+    <!-- endbuild -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="app.css" />
@@ -24,7 +26,7 @@
         </h3>
         <span flex></span>
 
-        <md-input-container layout="center center" ng-if="navbar.showSearch" md-no-float class="toolbar-search-form" flex="50">
+        <md-input-container layout="center center" ng-if="navbar.searchAvailable && navbar.showSearch" md-no-float class="toolbar-search-form" flex="50">
           <i class="material-icons">search</i>
           <input placeholder="Search here" ng-model="navbar.searchTerm" ng-change="navbar.searchTermUpdated()">
         </md-input-container>
@@ -32,9 +34,10 @@
         <md-button ng-if="navbar.searchAvailable && !navbar.showSearch" class="md-icon-button md-primary" aria-label="Search" ng-click="navbar.showSearch = !navbar.showSearch">
           <i class="material-icons">search</i>
         </md-button>
-        <md-button ng-if="navbar.showSearch" class="md-icon-button md-primary" aria-label="Close" ng-click="navbar.clearSearch()">
+        <md-button ng-if="navbar.searchAvailable && navbar.showSearch" class="md-icon-button md-primary" aria-label="Close" ng-click="navbar.clearSearch()">
           <i class="material-icons">close</i>
         </md-button>
+
       </div>
       
       <md-progress-linear ng-if="navbar.showLoader" md-mode="query"></md-progress-linear>
@@ -42,6 +45,7 @@
 
     <md-content flex ng-view></md-content>
       
+    <!-- build:js(.) scripts/vendor.js -->
     <!-- bower:js -->
     <script src="bower_components/angular/angular.js"></script>
     <script src="bower_components/angular-route/angular-route.js"></script>
@@ -50,6 +54,7 @@
     <script src="bower_components/angular-messages/angular-messages.js"></script>
     <script src="bower_components/angular-material/angular-material.js"></script>
     <!-- endbower -->
+    <!-- endbuild -->
     
     <script src="app.module.js"></script>
     <script src="app.config.js"></script>
