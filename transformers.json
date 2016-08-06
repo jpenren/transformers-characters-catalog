@@ -100,8 +100,8 @@
    "category": "Main Character"
  },
  {
-   "name": "Hot Rod / Rodimus Prime",
-   "about": "Hot Rod is an all-American-boy Autobot. He's a typical adolescent who dreams of being heroic and important. He tends to follow rules too closely. Although he means well, Hot Rod's impulsive actions often get him into trouble. He carries two photon lasers that temporarily electromagnetize an enemy robot's microcircuits. Speed: 120 mph. Range: 4 miles. He can be hotheaded, but he's always a well meaning, admirable lad and a brave and honorable fighter. As Rodimus Prime, he is the vanguard for the Autobot ranks. Possesses acute military prowess. Speaks with the savvy of seasoned veteran. Expert tactician with exceptional maneuverability in battle. Can be hot-headed at times. Has a tendency to act first and ask questions later. In robot mode, carries a photon eliminator that shoots high voltage electricity. Range: 500 miles. Speed: 200 mph. Sole purpose is to protect all life. His only weakness is his compassion for other living creatures. As a Targetmaster, Hot Rod often goes off on his own adventure with Firebolt, his electrostatic discharger rifle, who led a quiet scholarly life as Nebulan's top atomic physics scientist until he became the thrill-seeking Hot Rod's partner, Firebolt is excited, but nervous, about the prospect.",
+   "name": "Rodimus Prime",
+   "about": "Hot Rod (Rodimus Prime) is an all-American-boy Autobot. He's a typical adolescent who dreams of being heroic and important. He tends to follow rules too closely. Although he means well, Hot Rod's impulsive actions often get him into trouble. He carries two photon lasers that temporarily electromagnetize an enemy robot's microcircuits. Speed: 120 mph. Range: 4 miles. He can be hotheaded, but he's always a well meaning, admirable lad and a brave and honorable fighter. As Rodimus Prime, he is the vanguard for the Autobot ranks. Possesses acute military prowess. Speaks with the savvy of seasoned veteran. Expert tactician with exceptional maneuverability in battle. Can be hot-headed at times. Has a tendency to act first and ask questions later. In robot mode, carries a photon eliminator that shoots high voltage electricity. Range: 500 miles. Speed: 200 mph. Sole purpose is to protect all life. His only weakness is his compassion for other living creatures. As a Targetmaster, Hot Rod often goes off on his own adventure with Firebolt, his electrostatic discharger rifle, who led a quiet scholarly life as Nebulan's top atomic physics scientist until he became the thrill-seeking Hot Rod's partner, Firebolt is excited, but nervous, about the prospect.",
    "alternateMode": "Hot Rod Cybertronian sports car Rodimus Prime Cybertronian RV",
    "firstAppearance": "Transformers: The Movie",
    "lastAppearance": "Rodimus Prime The Return of Optimus Prime (Part 2) Hot Rod The Rebirth (Part 3)",
@@ -452,8 +452,8 @@
    "category": "Mini-Bot"
  },
  {
-   "name": "Skyfire/Jetfire",
-   "about": "Swiftest Autobot. Daring in battle... believes victory will come via technological advancement. Adds twin scramjet modules and liquid hydrogen fuel tanks to escape Earth's gravity. Flies halfway around the world in 30 minutes. Carries 4 particle-beam cannons and heat-seeking photon missiles. Prone to mechanical failures due to advanced technology.",
+   "name": "Skyfire",
+   "about": "Skyfire (Jetfire) swiftest Autobot. Daring in battle... believes victory will come via technological advancement. Adds twin scramjet modules and liquid hydrogen fuel tanks to escape Earth's gravity. Flies halfway around the world in 30 minutes. Carries 4 particle-beam cannons and heat-seeking photon missiles. Prone to mechanical failures due to advanced technology.",
    "alternateMode": "Cybertronian Jet, (Jetfire VF-1S Super Valkyrie)",
    "firstAppearance": "Fire In the Sky",
    "lastAppearance": "Day of the Machines A ship that looks like Skyfire was seen and destroyed in \"Dark Awakening\". It is unknown if this was really Skyfire.",
@@ -507,7 +507,7 @@
    "category": "Other"
  },
  {
-   "name": "Alpha Trion/A3",
+   "name": "Alpha Trion",
    "about": "The oldest Autobot. One of the original creations of the Cybertronian super-computer Vector Sigma. Was once known as A3 in his earliest days. Was the guardian of the Matrix of Leadership when it had no bearer and was the one who created Optimus Prime. His body is lifeless but his spirit remains in Vector Sigma as well as the Matrix of Leadership.",
    "alternateMode": "none",
    "firstAppearance": "The Search for Alpha Trion",
@@ -551,7 +551,7 @@
    "category": "Other"
  },
  {
-   "name": "Punch/Counterpunch",
+   "name": "Punch",
    "about": "Punch, the Autobot, transforms into Counterpunch, the Decepticon, to infiltrate enemy installations. Cool-headed, a robot of few words, reveals little of his true self to either side. Maximum car mode speed: 160 mph. Uses twin mortar launcher in Autobot mode, photon cannon in Decepticon mode.",
    "alternateMode": "Pontiac Fiero (Punch) / Lamborghini Diablo (Counterpunch)",
    "firstAppearance": "The Rebirth (Part 1)",
@@ -771,8 +771,8 @@
    "category": "Protectobots"
  },
  {
-   "name": "Elita One/Ariel",
-   "about": "Elita One is a devoted Autobot and powerful warrior, fearless in the face of the enemy, but compassionate to those who need her help. She is eternally in love with the heroic Optimus Prime.",
+   "name": "Elita One",
+   "about": "Elita One (Ariel) is a devoted Autobot and powerful warrior, fearless in the face of the enemy, but compassionate to those who need her help. She is eternally in love with the heroic Optimus Prime.",
    "alternateMode": "Cybertronian car",
    "firstAppearance": "The Search for Alpha Trion",
    "lastAppearance": "War Dawn (Ariel)",
@@ -1046,7 +1046,7 @@
    "category": "Headmaster"
  },
  {
-   "name": "Fastlane/Cloudraker",
+   "name": "Fastlane",
    "about": "Cloudraker often acts frustrated, can't reach escape velocity and achieve orbit. Extreme claustrophobe - feels the sky isn't big enough for him. Usually flies as high as he can. Terrified of being on the ground. In vehicle mode, uses 2 gravity-rod rifles to cause objects to float away or crash to the ground. Fastlane is a bit immature, sometimes acts like a thrill-seeking show-off, enjoys looking for new ways to get his kicks. Usually makes reckless driving a way of life. In vehicle mode, reaches maximum speed of 220 mph; maximum speed with booster jets: 550 mph. Range: 350 miles. In robot mode, carries 2 sonic boom rifles; one blast can shatter foot-thick steel.",
    "alternateMode": "Dune Buggy (Fastlane), Jet (Cloudraker)",
    "firstAppearance": "The Rebirth (Part 1)",
@@ -1805,7 +1805,7 @@
    "category": "Horrorcon"
  },
  {
-   "name": "Pounce / Wingspan",
+   "name": "Pounce",
    "about": "Pounce is sly, silent, and savage. The right machine for the right job. Often ignores his victims' pleas for mercy. In puma mode, can leap .7 miles. Possesses superior eyesight and sense of smell. In robot mode, laser range finder in optical sensors provides 99.4% accuracy with twin anti-personnel missile launching bayonets. Wingspan is always poking his beak where it doesn't belong. Nosey. Voracious appetite for new data to analyze. Looks in peoples windows as readily as he spies on enemy troops. In hawk mode - has superb vision. Chemical and infra-red sensors collect and analyze geographical data - locate resources. In robot mode - has two electro-burst rifles.",
    "alternateMode": "Puma (Pounce), Hawk (Wingspan)",
    "firstAppearance": "The Rebirth (Part 1)",
