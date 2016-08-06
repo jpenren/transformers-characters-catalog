@@ -1,0 +1,9 @@
+<md-list>
+    <md-list-item class="md-3-line" ng-repeat="faction in $ctrl.factions" ng-href="#/characters/{{faction}}">
+        <div class="faction-container">
+            <faction-logo faction="faction"></faction-logo>
+            <p>{{faction}}</p>
+        </div>
+        <md-divider inset></md-divider>
+    </md-list-item>
+</md-list>
