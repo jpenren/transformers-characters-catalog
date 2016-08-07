@@ -1206,7 +1206,18 @@
 			"status": "Unknown",
 			"faction": "Autobot",
 			"category": "Other",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Universe Gameplay Overview (BETA) - YouTube",
+					"url": "https://i.ytimg.com/vi/YgKPea4GAro/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSfLlmStjJ0hYbe_2zQkP53ilqJ07nnU_Bjx1UyMBlPpyaTCWLKIsbkwasM"
+				},
+				{
+					"title": "Transformers Universe shutting down while still in open beta ...",
+					"url": "http://cdn.mos.cms.futurecdn.net/4e699a71257c2897fce1c61f67992cc1-650-80.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0AC4Wz_WtfDgBNvfMERF4L4_I-dX0KgBgGYclwzFpwGeIxjd0pz_z2blr"
+				}
+			]
 		},
 		{
 			"name": "Grimlock",
@@ -1218,7 +1229,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Dinobot",
-			"images": []
+			"images": [
+				{
+					"title": "Grimlock - Stomp & Chomp - Transformers Age of Extinction - YouTube",
+					"url": "https://i.ytimg.com/vi/1obNakU3dew/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwITADmEOwXoWYpLkuvAVmy9ohMa84iJqpkMvEsHA7tMaZNVoQi9n1e_o"
+				},
+				{
+					"title": "Transformers Grimlock Optimus Prime Version Statue by Prime ...",
+					"url": "http://www.sideshowtoy.com/wp-content/uploads/2014/10/902278-product-thumb.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2mL6j0LkXDhNtHMC1dNAcE2eRHtMDGBgIGkLh-QfZ1Tuk5oyfmq_h9lo"
+				}
+			]
 		},
 		{
 			"name": "Slag",
@@ -1230,7 +1252,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Dinobot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers G1 Slag - YouTube",
+					"url": "https://i.ytimg.com/vi/w4iAU6h1Ed0/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT1NvJ3hMjrpY4xsDR8Ye-QQddZsW6VPvDxMU1S5lmqk6QuLM16iZAKkR8"
+				},
+				{
+					"title": "Slag - Dinobot | Transformers | Pinterest | Html",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/a7/66/7d/a7667df1377300df6ce3fb888dd8096b.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQniD54_-CnSuRaZFRfzvPQA2nCkB6r2cr1mhNR7_61Zo_axdIRKmiT-A8"
+				}
+			]
 		},
 		{
 			"name": "Sludge",
@@ -1242,7 +1275,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Dinobot",
-			"images": []
+			"images": [
+				{
+					"title": "Sludge - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/11/Sludge-RM-1_1258829698.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ_NsqSsXeoqyOeEHLLpDXifWWfqFH_GrPYrup10uZpL5kwROkMzz5nEqU"
+				},
+				{
+					"title": "Transformers: Fall of Cybertron Dinobot DLC Initial Thoughts ...",
+					"url": "https://i.ytimg.com/vi/_Xcs-89G7sk/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKlMfgQlrBsRe806SdrIdq7H7_8AGC4j5Cgw8H-dvKgfuB2jf5-h6H4Cw"
+				}
+			]
 		},
 		{
 			"name": "Snarl",
@@ -1254,7 +1298,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Dinobot",
-			"images": []
+			"images": [
+				{
+					"title": "Snarl - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/11/Snarl-BM_1258829398.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFhn73KrLT8UUzMaFCgbr_Io7Dl4EfE-W9SxSk_8Ud2-CcClj4YxZxM4Xu"
+				},
+				{
+					"title": "Transformers Skylanders Dinobots with Grimlock (Bash), Swoop ...",
+					"url": "https://i.ytimg.com/vi/dPbKLKrEgvg/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTF6KhJkxoEMZ7GFFKDsX6TSFL8GKI3z7KqiwSat2p5VRNivf0u833x5I0m"
+				}
+			]
 		},
 		{
 			"name": "Swoop",
@@ -1266,7 +1321,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Dinobot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Fall of Cybertron - Dinobot Swoop Custom Character ...",
+					"url": "https://i.ytimg.com/vi/RFHn96G9RXg/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTjIPI3Z-zCR6hN3Tb8FX90ASTSIOQ-rKsUpvv5DVhCtzQvT_njeVF3z7D2"
+				},
+				{
+					"title": "Swoop - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/04/swoop_1209259522.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMEApCDefbjEmnfq1yRxnaLPW3qwzQR_0gsqlZUJrig0k6Rd3M9Xlz7bE"
+				}
+			]
 		},
 		{
 			"name": "Silverbolt",
@@ -1278,7 +1344,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Aerialbot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers War for Cybertron Site Update - Silverbolt and Brawl ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/05/WFC-Silverbolt_1273098866.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNMU-72pmv5QPonI3q-DT2OYI331iXACOiLwJqKBaDMNtGhPK6VXKpYbM"
+				},
+				{
+					"title": "Silverbolt - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/04/Universe-Silverbolt-_Robot_1209262872.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnbpZxaQ7RguhdtOC8l3lXoocIiTubnZ43VLIyt-RDxgsjFwD_TB_cC0Qk"
+				}
+			]
 		},
 		{
 			"name": "Air Raid",
@@ -1290,7 +1367,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Aerialbot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Fall of Cybertron - Air Raid Multiplayer Gameplay ...",
+					"url": "https://i.ytimg.com/vi/1dm-h8ZOyQg/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ-0Xqfc3yDG3EBo-O5PvCa4uNwWK6ntbh-KoGWW_uwyWiP7ZyBbuAcl10"
+				},
+				{
+					"title": "SDCC2014 Transformers Generations 2015 Aerialbots Official Images ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2014/07/Airraid_R_1406240954.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQj-N7Howm9V1ip31N4ZPmiqeT0LQlHtJWIFWfySs49b6bJT6loPDcNnEo"
+				}
+			]
 		},
 		{
 			"name": "Slingshot",
@@ -1302,7 +1390,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Aerialbot",
-			"images": []
+			"images": [
+				{
+					"title": "Slingshot / Рогатка / Рогатка - Transformers.kiev.ua ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/4e/77/06/4e7706c2409235c499d840c7b805dad0.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRD9xl5XfrrTNE8mOB45vrWI9AhuW1M9UR4_u3ltJAwB4QaNRjHYLU3UaQ"
+				},
+				{
+					"title": "Slingshot - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/slingshot_1202244128.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfQsZJxFM3SorDiauHwc9KyLnTvZvfqTGraHTgV9bQigQzJkYAPJOHDmL"
+				}
+			]
 		},
 		{
 			"name": "Skydive",
@@ -1314,7 +1413,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Aerialbot",
-			"images": []
+			"images": [
+				{
+					"title": "Skydive - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/skydive_1202244042.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJyFh-5I_uwj5UCd5hEm0YUiZwhU_cZP79tSzfTj2uasCLpNLLSSBYiGs"
+				},
+				{
+					"title": "Deluxe Class Skydive (Transformers, Universe, Autobot ...",
+					"url": "http://www.transformerland.com/image/reference_images/23341.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRsy2EqehZ4k1JgiJEAVnYHuwWU7OUjldB4uplfjqFNK1L2TQ67BlPrhnE"
+				}
+			]
 		},
 		{
 			"name": "Fireflight",
@@ -1326,7 +1436,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Aerialbot",
-			"images": []
+			"images": [
+				{
+					"title": "Fireflight - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/fireflight_1202240452.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVEZElq_thTuC8yCcSBr1Z5tpapEkhdi7E0xovYJbh3b_89yUnGwr4c7cx"
+				},
+				{
+					"title": "Deluxe Class Fireflight with Firebot and Thunderwing (Transformers ...",
+					"url": "http://www.transformerland.com/image/reference_images/23040.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7u4UdfkcK7kEEp2dsP2J3inAPhcBWsjWEUMOBhQcOJr7fHGR75Up0ow"
+				}
+			]
 		},
 		{
 			"name": "Superion",
@@ -1338,7 +1459,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Aerialbot",
-			"images": []
+			"images": [
+				{
+					"title": "Custom Add Ons For Transformers Energon Superion - Transformer ...",
+					"url": "http://www.hk-tf.com/discuz/upload/attachments/month_0903/20090310_b6a966d76df7c1c54a89c98huNkPIIjE.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQqRPBK0cCyPsDAZRfobAWQk9AwB9NbDL_stLXkSrpLwaSp0TCW_Ruffw0"
+				},
+				{
+					"title": "Aerialbots (Superion, G1) Superion (Transformers, G1, Autobot ...",
+					"url": "http://www.transformerland.com/image/reference_images/1133.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzF5WlGJIVWzdUMGwsNP2DNUtSRlrCgQV4j_ZeBkMLd5UAkljTNBbT1w"
+				}
+			]
 		},
 		{
 			"name": "Streetwise",
@@ -1350,7 +1482,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Protectobots",
-			"images": []
+			"images": [
+				{
+					"title": "Unite Warriors and Combiner Wars Streetwise Comparison Images ...",
+					"url": "http://i.imgur.com/ceD2sQw.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTusvm-EqNh61UIkiVAZ9E1xWEZxyqbgPTNm-_Vc2oCgrvaORaibnKibA"
+				},
+				{
+					"title": "BotCon 2010 Streetwise Revealed - Transformer World 2005 - TFW2005.COM",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/04/transformers-botcon-2010-streetwise-vehicle-mode_1271942923.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVq4AumlMHvTk4n8HyJ2DAdBvRKiaPT94VKuoRP0AwWyIHUf6SwHuwM9qv"
+				}
+			]
 		},
 		{
 			"name": "Groove",
@@ -1362,7 +1505,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Protectobots",
-			"images": []
+			"images": [
+				{
+					"title": "Groove - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/groove_1202241047.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ7Lc137ITBeWj0CGuL6cqAe7D-wSDHHl6QRWI1O3c45UkeObuImapwKvAl"
+				},
+				{
+					"title": "Release the Groove: Petition Video for Hasbro to Release ...",
+					"url": "https://i.ytimg.com/vi/balpqzP9ECw/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVmGrBOLHloxBF-awECHHtaCNm-q55jf1Rvx3_gOnp2pV-SSKD4nGn_wg"
+				}
+			]
 		},
 		{
 			"name": "First Aid",
@@ -1374,7 +1528,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Protectobots",
-			"images": []
+			"images": [
+				{
+					"title": "Combiner Wars Protectobots First Aid & Rook Listings - Defensor ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/01/2374107-first_aid_jump_start_transformers_more_than_meets_the_eye_4_1421349877.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjd5AdNd7GBy7jvEMcdxqS3C7-I2XqlGzD58iIViaSydelljn5DhqpTT0"
+				},
+				{
+					"title": "First Aid - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2007/10/transformers-g1-0272_1191470118.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-W8cLNx5SSXRNmD4rQEVogZzqR9ihPnHRvVSNIhXzkbBeUv50pqge2ag"
+				}
+			]
 		},
 		{
 			"name": "Hot Spot",
@@ -1386,7 +1551,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Protectobots",
-			"images": []
+			"images": [
+				{
+					"title": "Hot Spot / Компот / Гарячий - Transformers.kiev.ua | Transformers ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/c1/eb/f6/c1ebf62e983d999cc5f5f6d151f4f624.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTF0Qr-TYM-MOzNYxWesWh559KP9OPHHBU5GQPVkmouAL0Ogko6FbQ_eXQ"
+				},
+				{
+					"title": "Defensor / Hot Spot - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/10/Hot_Spot_1225031833.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeo81eOYaxeWgS_CrsnIL_js5jEByBmqCi2v-oKa6z_ju38gprexu9AcI"
+				}
+			]
 		},
 		{
 			"name": "Blades",
@@ -1398,7 +1574,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Protectobots",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers: Rescue Bots - Meet Blades - YouTube",
+					"url": "https://i.ytimg.com/vi/2_ySK7ddIvo/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRkHoWQjks5qGjX5ofikifWHGIrJpK7a67fahPdU4wvCQl-3B_MnwLmLR6"
+				},
+				{
+					"title": "More New Pictures of Transformers Universe Classics 2.0 Blades ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2008/06/4_1212460425.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRjhR6zlVCm-semUzodA9eWpEmIOrhyyUBnr1_X1oIfyEStFVYpmRrqr3fzCg"
+				}
+			]
 		},
 		{
 			"name": "Defensor",
@@ -1410,7 +1597,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Protectobots",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Defensor - YouTube",
+					"url": "https://i.ytimg.com/vi/JHdC8d8mxSU/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQDWbEGS_Dpa4OwfQyCo-EcFDLMAED3L-sTJHQP6A-Xavrzo7Nsin_F8G"
+				},
+				{
+					"title": "Series I Protectobots (Defensor) Defensor (Transformers, Universe ...",
+					"url": "http://www.transformerland.com/image/reference_images/20332.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX2YbqloaqlWWvWkdyY7CWVzBnnU3abT8r-fAIoECqd2KC2ABeq_IZfw"
+				}
+			]
 		},
 		{
 			"name": "Elita One",
@@ -1422,7 +1620,18 @@
 			"status": "Unknown",
 			"faction": "Autobot",
 			"category": "Female Autobot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Prime Opening - Fanmade ( Modified with Elita One ...",
+					"url": "https://i.ytimg.com/vi/sPYRyMboYEs/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSqaG5SU4iR5OBiSTeC2xQsJUXkDpqfeV1D0wafJbWbWNz_e07Ggfkfewo"
+				},
+				{
+					"title": "Revenge Of The Fallen Elita-One Movie Prop On Ebay - Transformer ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2012/02/elita1_1328816426.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRajjDsH6wWpHlSg8jyWzFh7NvdqP8X8A0sXQmAKHmHmnP5XnHjd-gzPZDs"
+				}
+			]
 		},
 		{
 			"name": "Chromia",
@@ -1434,7 +1643,18 @@
 			"status": "Unknown",
 			"faction": "Autobot",
 			"category": "Female Autobot",
-			"images": []
+			"images": [
+				{
+					"title": "Arcee and Chromia | Transformers | Pinterest",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/a4/5c/bf/a45cbfbb9445afaca04835617662693e.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRoL2KkCUMLHciOCfoOGVqGircGGkAQQIzGgfszPscnne4S8Xc4GLlRdMA"
+				},
+				{
+					"title": "Arcee,Chromia,Flare-up,And combined - YouTube",
+					"url": "https://i.ytimg.com/vi/2Zor-tXfe8E/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcShK6rFFjQ3m2D72QnjVdkb3v_0nUZKJgyjyhqjX--0lSPdTvl6B55gtWg"
+				}
+			]
 		},
 		{
 			"name": "Firestar",
@@ -1446,7 +1666,18 @@
 			"status": "Unknown",
 			"faction": "Autobot",
 			"category": "Female Autobot",
-			"images": []
+			"images": [
+				{
+					"title": "Voice Actor Morgan Lofting to attend Action Figure Expo 2015 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/08/moonracer-firestar.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd7xLwKo1SozZhgewOpdlhTeYhf9z3lp7TDpiBn1zbY5JHbPm6-in5BTpG"
+				},
+				{
+					"title": "G1: Chromia, Moonracer and Firestar : I Thought They Were Extinct ...",
+					"url": "https://i.ytimg.com/vi/HuluBVK3NxQ/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQweK6WMZLtpWXH4IXmtiOvGPhB43DugOHx2bQSzfhsu-5bf9qNfWVqJ0N7"
+				}
+			]
 		},
 		{
 			"name": "Moonracer",
@@ -1458,7 +1689,18 @@
 			"status": "Unknown",
 			"faction": "Autobot",
 			"category": "Female Autobot",
-			"images": []
+			"images": [
+				{
+					"title": "Voice Actor Morgan Lofting to attend Action Figure Expo 2015 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/08/moonracer-firestar.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd7xLwKo1SozZhgewOpdlhTeYhf9z3lp7TDpiBn1zbY5JHbPm6-in5BTpG"
+				},
+				{
+					"title": "G1: Chromia, Moonracer and Firestar : I Thought They Were Extinct ...",
+					"url": "https://i.ytimg.com/vi/HuluBVK3NxQ/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQweK6WMZLtpWXH4IXmtiOvGPhB43DugOHx2bQSzfhsu-5bf9qNfWVqJ0N7"
+				}
+			]
 		},
 		{
 			"name": "Nosecone",
@@ -1470,7 +1712,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Technobot",
-			"images": []
+			"images": [
+				{
+					"title": "Nosecone - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/nosecone_1201846805.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRptipxKSauBh6F2GTstJesuX6dRhOScSGuELxARFj2g8rWkSqyj04VoA"
+				},
+				{
+					"title": "Warbotron WB-03C Nosecone - Transformer World 2005 - TFW2005.COM",
+					"url": "http://www.tfw2005.com/boards/attachments/transformers-3rd-party-discussion/27510888d1429035501-warbotron-wb-03c-11150906_10152915246203802_6761695339256524905_n.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_Q5g7gP9uQq0X3mZ6fNypqq2KtXDtLkeLc0jwo1XUjQktp9X8oHWI5LS8"
+				}
+			]
 		},
 		{
 			"name": "Lightspeed",
@@ -1482,7 +1735,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Technobot",
-			"images": []
+			"images": [
+				{
+					"title": "G1 Lightspeed Tribute - YouTube",
+					"url": "https://i.ytimg.com/vi/V9RbV-5FNGY/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRG90dixsEjjDmQt-ofjh0zL684gagARCo2XQAXEruLQ_rdAHT-hbXatA0"
+				},
+				{
+					"title": "Technobots (Computron) Lightspeed ( TK4 ) (Transformers, G1 ...",
+					"url": "http://www.transformerland.com/image/reference_images/1811.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBwc-YhUMdlg7GX7mFW02f2CAcGe1TPXAhQBRt351ZbFYHVFY7fBrA1g"
+				}
+			]
 		},
 		{
 			"name": "Strafe",
@@ -1494,7 +1758,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Technobot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers: Lost Age Interviews - Drift, The Franchise And More ...",
+					"url": "http://www.tfw2005.com/boards/attachments/transformers-news-rumors/27458815d1407427385-transformers-lost-age-interviews-drift-franchise-more-450px-aoe_pteranodon_concept.jpg?s=85efaf071be0e4569ab63c5185f9f7aa",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrS-Gf_jtpGeVtBHzOlK8dKQeayww476Fg_gdJtIp6_qqWsLe3v5gEig"
+				},
+				{
+					"title": "Strafe - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2010/10/HAS19654_1286921109_1286922944.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrtG1eozpDEckEh9QbZqCbWxvApljMxZs8h7hSXr2Ba4Dhi9gLkB6QJFgy"
+				}
+			]
 		},
 		{
 			"name": "Scattershot",
@@ -1506,7 +1781,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Technobot",
-			"images": []
+			"images": [
+				{
+					"title": "More Combiner Wars Figures Discovered - Transformer World 2005 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/02/300px-DWMTMTE_Scattershot_1423719363.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbQ6C8DTeD_L34JupkvwTJrTOTFp7Q0CUQ23M0mbyQkFF6oQdUjGLKPHs"
+				},
+				{
+					"title": "Technobots (Computron) Scattershot ( TK5 ) (Transformers, G1 ...",
+					"url": "http://www.transformerland.com/image/reference_images/1827.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQndkEGffsoEUQ-wrVb4HjLEloo2VzuEfP-mqF30XZ1xQuMzPl88VYUvSA"
+				}
+			]
 		},
 		{
 			"name": "Afterburner",
@@ -1518,7 +1804,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Technobot",
-			"images": []
+			"images": [
+				{
+					"title": "Technobots (Computron) Afterburner ( TK1 ) (Transformers, G1 ...",
+					"url": "http://www.transformerland.com/image/reference_images/1794.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAq-i4kzl6Bcm8sLQ4UAWjUVl7trKkq8GSKrqymeoRFrPkRyBXg_6mTw"
+				},
+				{
+					"title": "Warbotron WB03-A Turbo Ejector (Not Transformers Afterburner ...",
+					"url": "https://i.ytimg.com/vi/0Zt9MD38hVo/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCkCoKeFUqnosBFux_tDXdLL1dXZql9RsEx7hTPRz6E6Wo1fp2We79TAhy"
+				}
+			]
 		},
 		{
 			"name": "Computron",
@@ -1530,7 +1827,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Technobot",
-			"images": []
+			"images": [
+				{
+					"title": "Generation 1 Computron Knock Off Replica Coming Soon - Transformer ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/09/fqnL6PvbM4ZmAMN_1283725939.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOctJyZ-uq0KRmJPkCG5I_69_OE_2py_P_1plrDUGlCI7WF5u7hG07Bc"
+				},
+				{
+					"title": "Transformers G1 Defensor, Computron and Superion | Transformers ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/f5/0f/ab/f50fabb33a40850012f521dcb62f6fb8.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQh-vLsz8b0dzYnvGJCmZYlnL7TFA3EG3vCE_QU3l9EcKCuxAp9VPd3zs15"
+				}
+			]
 		},
 		{
 			"name": "Chase",
@@ -1542,7 +1850,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Throttlebot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Rescue Bots Chase the Police Bot Figure - YouTube",
+					"url": "https://i.ytimg.com/vi/10lc6bDNbmg/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRhBk1SGCrn-ElgSqDMYljHXvhLUOR0fwSHjS5MrKBeB05NXNVO55L2ynE"
+				},
+				{
+					"title": "Transformable Rescue Bots Chase the Police-Bot (Transformers ...",
+					"url": "http://www.transformerland.com/image/reference_images/53660.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5ULXwI6C0FmjYc7T1jZ1hgq9dEjmHdgH12hvtuLymGgOsY-vS8Ftakjk"
+				}
+			]
 		},
 		{
 			"name": "Freeway",
@@ -1554,7 +1873,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Throttlebot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers 3 - Freeway Chase - YouTube",
+					"url": "https://i.ytimg.com/vi/zvxXJd62qCw/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTcOx_z6tLp9QDO6tn7XY9MOH7uqYtYDYshPEnNlhQOI_HDFyRm2KXV3Lx-"
+				},
+				{
+					"title": "Transformers Animated Freeway Jazz and Revenge of the Fallen Scout ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2009/09/20090918_7268719cda0013d2193du_1253226538.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTIGoAAZO3zLWlRB_uXmbvAELrkhOhm6rMDUIqbAqTWc3uzh10BDGPT56IS"
+				}
+			]
 		},
 		{
 			"name": "Goldbug",
@@ -1566,7 +1896,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Throttlebot",
-			"images": []
+			"images": [
+				{
+					"title": "Goldbug - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/goldbug_1201846084.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVC5qiB-3UOsbR-CjgQjqJf3t3_B2Ois-iZyhaSfgHa-SKP2rzpQyxd_2l"
+				},
+				{
+					"title": "transformers revenge of the fallen CUSTOM GOLDBUG review by hunter ...",
+					"url": "https://i.ytimg.com/vi/-TVQH9xuDNg/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrGQ3fYbc5gzi5PaoVhA8s-PoJGegQr25GftjwU_z2_C6Xq3YbFHmf_0Fv"
+				}
+			]
 		},
 		{
 			"name": "Rollbar",
@@ -1578,7 +1919,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Throttlebot",
-			"images": []
+			"images": [
+				{
+					"title": "Rollbar (Jeep Wrangler) - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/Rollbar_1202572992.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgwoghDU6f6mYGMNVRsoo2SCR-dHTkYj_CTyO62VU8LYDyD0IakmiZmw"
+				},
+				{
+					"title": "Transformers Age of Extinction Platinum Edition Sets Official ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2014/06/Breakout-Battle-Rollbar-car_1403382885.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ2rXknBHu-VsixZtsTEKvo_VMohwIeOtk2oldvXBjatYoUqtv1DjKRudKx"
+				}
+			]
 		},
 		{
 			"name": "Searchlight",
@@ -1590,7 +1942,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Throttlebot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers - Power Core Combiners - Searchlight & Backwind ...",
+					"url": "https://i.ytimg.com/vi/ZscsJkcqdlA/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOxQ3LbnphH_f-Y6yDuaXNbUVYXh5a6wy0yaxU_kgOErSBkDduS_7GHVA"
+				},
+				{
+					"title": "Vintage Transformers G1 Lot SLINGSHOT SEARCHLIGHT AIR RAID FIRST ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/54/68/1f/54681f57cb245cad1d2f6250cd642c02.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSsrqy8R8p8rrH8jVtPGgMudljKLOrSnqwnflNIBHJzEOMry_Q9IoZs5i4"
+				}
+			]
 		},
 		{
 			"name": "Wideload",
@@ -1602,7 +1965,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Throttlebot",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Construct Bots Dinobot Slash Revealed - Transformer ...",
+					"url": "http://www.tfw2005.com/transformers-news/attach/4/0/5/9/7/TRANSFORMERS-CONSTRUCT-BOTS-WARRIORS-HOUND--WIDE-LOAD-A7064_1392515708.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSH_ADFK6CAKZG4LL6h6FY_dSE0bwwXaIPqrzBCVFo1JNu4lS_QU-wHlOBF"
+				},
+				{
+					"title": "Wideload - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/02/Wideload_EN_009_1202071955.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5-Yq4-c5R6Yr-g6TSWrV9VmYSMt-IV5bt_Je-sODvSMy-dvgm_lweCvQ"
+				}
+			]
 		},
 		{
 			"name": "Sureshot",
@@ -1614,7 +1988,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Targetmaster",
-			"images": []
+			"images": [
+				{
+					"title": "Sureshot G1 toy box art. | TRANSFORMERS (Art) | Pinterest | Toy ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/564x/ab/a3/f9/aba3f9a6ce1abd4767f8f913c8c9154e.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6pfYh8At9hDD_OYfI1uDNyZnDVyQockmVJewRD1Uy7hvfVyfdOdPN5Xw"
+				},
+				{
+					"title": "Targetmasters Sureshot (Transformers, G1, Autobot ...",
+					"url": "http://www.transformerland.com/image/reference_images/1783.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSv0IHJohcOGf1nIbjJTk6Nm7Pv1ma7re9MJAHnNljSiJuc-lQoyeV4Wg"
+				}
+			]
 		},
 		{
 			"name": "Pointblank",
@@ -1626,7 +2011,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Targetmaster",
-			"images": []
+			"images": [
+				{
+					"title": "Pointblank - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2007/10/transformers-g1-0507_1191621448.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJk29gbdtoaOgzDLZdu2_CMslmsCrDAFgvim7Yy_BIHUuS9u7M4Ut2uF8"
+				},
+				{
+					"title": "Targetmasters Pointblank (Transformers, G1, Autobot ...",
+					"url": "http://www.transformerland.com/image/reference_images/1774.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSekbgYfVzAPH_WtYkTWENI3jmI-kY0uVrCfD64vU81Xc8jj4r8GOwH9Q"
+				}
+			]
 		},
 		{
 			"name": "Crosshairs",
@@ -1638,7 +2034,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Targetmaster",
-			"images": []
+			"images": [
+				{
+					"title": "HD] Transformers: Age Of Extinction - Crosshairs vs Vehicons - YouTube",
+					"url": "https://i.ytimg.com/vi/HELgVLsii-8/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0B8BI5jyHtO3IuKSGi7LU4ONNlN739FTE9-D6YJyRQHWKR5Az_6RbrwJK"
+				},
+				{
+					"title": "Animated-style AOE Crosshairs. | Transformers | Pinterest ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/db/fc/f5/dbfcf50e43a1e7ce8a1ad9ca0b1d6ffe.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRe4y6KT7Y07cu4IaMGVRdwurcjYPDu6ezu3Ded10MClAf7TjQr9xyGNAk"
+				}
+			]
 		},
 		{
 			"name": "Hardhead",
@@ -1650,7 +2057,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Headmaster",
-			"images": []
+			"images": [
+				{
+					"title": "Preview Colored Pages from Transformers Spotlight Cyclonus and ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2008/04/hardhead02_colours_web_1209571275.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpRA6rYeUQYflWoxlY462-K4tKpGoeMXq2jgUYelplqYHqe3qQ1iSAdhI"
+				},
+				{
+					"title": "Revelations, Part 2 - Spotlight Hardhead - Transformers Comics ...",
+					"url": "http://comics.tfw2005.com/wp-content/uploads/sites/11/2010/02/transformers-comics-spotlight-hardhead-revelations-part-2-cover-a_1266632755.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSmkDP53A9rBoJvWGCljyFcMit7JGzqX_VHu8P7ZacInJGZht7Fp6Gu0r8j"
+				}
+			]
 		},
 		{
 			"name": "Chromedome",
@@ -1662,7 +2080,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Headmaster",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Subscription Service 2.0 Chromedome Officially ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2013/09/chromedomeBOTweb_1379716598.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW6s0ue_UwMExlDpTbsJiCk6gWN0gerpXM91UZiAW8reg9e1P_qnrVTPc"
+				},
+				{
+					"title": "Maketoys Remaster Series Cupola (Chromedome) Prototype Images ...",
+					"url": "http://www.tfw2005.com/boards/attachments/transformers-3rd-party-discussion/27522233d1433945184-maketoys-cupola-rm-01-mp-chromedome-cupola_1.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRQ25dqYMIQRPbNx5TYzhwHyKePWnrHQcggl3N7XsAXySVD87QH9wnc-jc"
+				}
+			]
 		},
 		{
 			"name": "Brainstorm",
@@ -1674,7 +2103,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Headmaster",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Generations Brainstorm - YouTube",
+					"url": "https://i.ytimg.com/vi/lMziWp2QnIQ/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcREBrymKGkS0Ef7C85-VbqB5Qy51njpPKOpHzIJecwRSJeEVlPfzCbyHKY"
+				},
+				{
+					"title": "Transformers Legends Brainstorm, Swerve and Tailgate new images ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/01/B6aAICsCIAAHr74_1420318936.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTROFj5q-YhNfqnCH9J0fn0B1eMD_bfCNJoCUKQ-UJcikOlhfXCuRJb2c23"
+				}
+			]
 		},
 		{
 			"name": "Highbrow",
@@ -1686,7 +2126,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Headmaster",
-			"images": []
+			"images": [
+				{
+					"title": "The Transformers - Autobot Campaign - PART 11 - Highbrow Gets A ...",
+					"url": "https://i.ytimg.com/vi/zP0m2OPurm8/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSOsDsevSj0KqdtoQ0_eS9NTMEiflvlJI-lqJy5UuK_CNftwPO29RfcXmU"
+				},
+				{
+					"title": "Headmasters Highbrow (Transformers, G1, Autobot) | Transformerland ...",
+					"url": "http://www.transformerland.com/image/reference_images/1650.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB3cE-JXTlNF1sYbiPJQJkcboZP-Ch81CE6q_x4nBAozEZaVAgsPta3w"
+				}
+			]
 		},
 		{
 			"name": "Cerebros",
@@ -1698,7 +2149,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Headmaster",
-			"images": []
+			"images": [
+				{
+					"title": "New Fortress & Cerebros Comparison Image - Transformer World 2005 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2016/07/FortressCerebros.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsNvwtjUtC4x61tTzEjfSgp2FZDOuPFrxpX-3OhYzXryJfdNTxx8R6NVCp"
+				},
+				{
+					"title": "Masterpiece Fortress Maximus, Part Two: CEREBROS (FORTRESS) - YouTube",
+					"url": "https://i.ytimg.com/vi/yg-p8ulffWg/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUZTtLNQN5izJ6Sk_jkcg9CTXkvyhyZAV8xNwoq_DIe1sd8cRQ_eIiFcQ"
+				}
+			]
 		},
 		{
 			"name": "Fortress Maximus",
@@ -1710,7 +2172,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Headmaster",
-			"images": []
+			"images": [
+				{
+					"title": "Fortress Maximus, Powermaster Prime, G2 Bruticus & More Revealed ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/11/01-Fortress-Maximus-928x483.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSspCWruDDcVn-64rVUZDdMGrWHSRao4QqQUTSbznexLK6IITp3Nc9x4ZM"
+				},
+				{
+					"title": "Bases Fortress Maximus (Transformers, G1, Autobot ...",
+					"url": "http://www.transformerland.com/image/reference_images/1662.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJIV0PG3ILx91ic5_BsmfKXHLlxeO-F80dwe32JUAmrSvSwn6QgzG5_mY"
+				}
+			]
 		},
 		{
 			"name": "Fastlane",
@@ -1722,7 +2195,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Clonebot",
-			"images": []
+			"images": [
+				{
+					"title": "3rd party Transformers G1 Clones Fastlane and Cloudraker - YouTube",
+					"url": "https://i.ytimg.com/vi/ufPVwzIVI0s/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQv04aGda1rEbIdsCI18TuEi6GejXRS5vqMz6AvVMmI7UNzf7ltIHy64aY"
+				},
+				{
+					"title": "Clones Fastlane and Cloudraker (Transformers, G1, Autobot ...",
+					"url": "http://www.transformerland.com/image/reference_images/1597.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2z_lrC_tBDWnKJ-7UgUlVuifPnP7BPffBoI9JHToHMJEs5KTjEdGfbg"
+				}
+			]
 		},
 		{
 			"name": "Wreck-Gar",
@@ -1734,7 +2218,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Junkion",
-			"images": []
+			"images": [
+				{
+					"title": "Wreck-Gar - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2010/11/Wreck-Gar-Robot_1290202337.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTpmmOT_NysxA_NRmOYUyhty9bR5PGNLMMVnJx0U1J6v1b-ehl9DkWOmow"
+				},
+				{
+					"title": "Transformers United Wave 3 Official Images - Transformer World ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2011/01/wreck-gar_1295299191.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQkT-_b59C7Fhyq8Ea8CV7M4x4MKG-wacr4T1umuVx5V1RshTyBaNSWwe8J"
+				}
+			]
 		},
 		{
 			"name": "Junkyard",
@@ -1746,7 +2241,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Junkion",
-			"images": []
+			"images": [
+				{
+					"title": "Transformer in Junkyard - YouTube",
+					"url": "https://i.ytimg.com/vi/tx0XxL8VFxM/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRX5hsDIXA217dBj2q7M5Qo50Y8Z0iVN0Bi4vnGzaZI5pD_S85hYcHubMA"
+				},
+				{
+					"title": "Salvage - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2010/11/1289368511_PCCOverload6_1289566713.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7WtXWH9yOdhIMMr0BAEMVg7ZUt4oNGACUdj7qB-wUhHH7-Bic-KY7a54K"
+				}
+			]
 		},
 		{
 			"name": "Scrapheap",
@@ -1758,7 +2264,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Junkion",
-			"images": []
+			"images": [
+				{
+					"title": "First Look at Transformers United Scrapheap - Transformer World ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/12/04l_1292589621.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0g7yxuAaRAH03O67m618NfcIjK2-MjLybnhVCqFwJWztdSihNKQpEH-Ma"
+				},
+				{
+					"title": "Scrapheap (Planet of Junk Clash) - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2016/02/Planet-of-Junk-Clash-Scrapheap-Robot.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRC2jSJwurFRQxhUyr3S1dc2QAiUXcAMBittPSyYVbmKsv8zV1mk1VNg6Y"
+				}
+			]
 		},
 		{
 			"name": "Nancy",
@@ -1770,7 +2287,18 @@
 			"status": "Alive",
 			"faction": "Autobot",
 			"category": "Junkion",
-			"images": []
+			"images": [
+				{
+					"title": "Resonate: Present Visual Stories that Transform Audiences: Nancy ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/3d/d8/64/3dd864b8dc3598107f624356f808a491.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQASklukN6o5Qy-2G9h_keeHgxb9ju0RiClUMIz8Jz90kJKCGadc5xrcF_hQ"
+				},
+				{
+					"title": "FREE DOWNLOAD Encyclopedia of Bisque Nancy Ann Storybook Dolls ...",
+					"url": "http://s2.dmcdn.net/WB5aV/x240-aod.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSHmNbUe3eKQgCx-Yb7zx-sHtIBZ6xPmHm75GIBQV0DKh0yjxOjMccCThs"
+				}
+			]
 		},
 		{
 			"name": "Megatron",
@@ -1782,7 +2310,18 @@
 			"status": "Reformed (Galvatron)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "First Look At Transformers 5 Megatron - Transformer World 2005 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2016/05/Transformers-5-The-Last-Knight-Megatron-928x483.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8Yo9Yh3QEK5BsEPD59z20xIez0RZ8Hrdd44pydhcE3If4Cq7Tb5PjXGH3"
+				},
+				{
+					"title": "Transformers Megatron Premium Scale Collectible Figure by Th ...",
+					"url": "http://www.sideshowtoy.com/assets/products/902341-megatron/lg/902341-megatron-007.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEYuanpK5OUJIhW3Rmiyw_-TmiwesW040BlXkbwI9AYEy6UrjUDhlsOVio"
+				}
+			]
 		},
 		{
 			"name": "Soundwave",
@@ -1794,7 +2333,18 @@
 			"status": "Alive (Killed and rebuilt into Soundblaster in Transformers: Headmasters.)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "Soundwave - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/04/soundwave_laserbeak09-web_1238946053.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwh8er7IzhHJRiSgEJTB2bXoQc09i4QnBP5dq23k4sWe9gk32YfYhueJZd"
+				},
+				{
+					"title": "Soundwave by fayrenpickpocket on DeviantArt | Get Hyped to Draw ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/c4/ca/8b/c4ca8bfbb8d3a39e2c1d7c1ac5c71a19.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWKsWmzwFD1uVzltcCbAsN7mRSgsU0vlamvqbJ-irqHlLDH0KUV3g5Yns"
+				}
+			]
 		},
 		{
 			"name": "Shockwave",
@@ -1806,7 +2356,18 @@
 			"status": "Unknown (most likely dead)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "Masterpiece Shockwave Painted Prototype Full Look - Transformer ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/10/shockwave-6.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTStckCnGjvDNWNMKMCLbp13q7Ob_lOp1-0G-JsOhA6o7X0oFmSLsF4LaVvg"
+				},
+				{
+					"title": "Transformers 3 Shockwave concept - YouTube",
+					"url": "https://i.ytimg.com/vi/8Rfkb_tbSlo/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ6_CVFdvNcF_llPy1f_zFLayp5dW0sotLLMn15sHwfm1hipL7_1KakIdA"
+				}
+			]
 		},
 		{
 			"name": "Skywarp",
@@ -1818,7 +2379,18 @@
 			"status": "Reformed (Cyclonus)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "Hasbro's Transformers Generations Skywarp Out of Package Images ...",
+					"url": "http://serpentorslair.com/wp-content/uploads/2013/12/Transformers-Generations-Skywarp-Out-of-Package-Images-of-Hasbro-Edition-Figure-11__scaled_600.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbHlVtvJOKQYWhUXMPsrzEmijVueKwu-B0p3wjtpaoVq-T8GdRvcUTiq9Z"
+				},
+				{
+					"title": "Transformers Devastation - Challenge Mode 10 - Starscream ...",
+					"url": "https://i.ytimg.com/vi/mzI3iARhSD8/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX9grs55fDov8iMrCapxAf1iP8fG29PY7I1lZwKkv328vYrYbJyk7ZYuo"
+				}
+			]
 		},
 		{
 			"name": "Starscream",
@@ -1830,7 +2402,18 @@
 			"status": "Alive (Ghost)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Starscream Polystone Statue by Prime 1 Studio ...",
+					"url": "http://www.sideshowtoy.com/assets/products/902215-starscream/lg/902215-starscream-004.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrtQH_y2ih-tuPT0BftVz_b71vMqRtyMg1SMCCzEHI6jh8vNbwlVTIijYt"
+				},
+				{
+					"title": "Transformers Bonus Short: Starscream on Himself - YouTube",
+					"url": "https://i.ytimg.com/vi/QxOTMC3CV0g/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7D92TDt0ic9hICQtDtSK1J4k-jEcAwP7ScgXzgFcMw0AoykQu1YI_9zE"
+				}
+			]
 		},
 		{
 			"name": "Thundercracker",
@@ -1842,7 +2425,18 @@
 			"status": "Reformed (Scourge)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "Angry Birds Transformers - THUNDERCRACKER Max Level Gameplay Part ...",
+					"url": "https://i.ytimg.com/vi/kDE1bgzcsuA/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRZ8uQcl7vMz0PWHM8ZnWokNRH4vhARmk2HR8wa-c-Yk_mA3iqvotRNcb4"
+				},
+				{
+					"title": "War for Cybertron Site Update - Thundercracker, Jetfire and ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/05/WFC-Thundercracker_1273694671.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvPrePZBAoYCcS5HSGmOX20AFCiNZ5pKz1V1oR-lZLuDlWWEUt1Y1zlG_WbA"
+				}
+			]
 		},
 		{
 			"name": "Reflector",
@@ -1854,7 +2448,18 @@
 			"status": "Unknown (possibly dead)",
 			"faction": "Decepticon",
 			"category": "Main Character",
-			"images": []
+			"images": [
+				{
+					"title": "Reflector / Рефлектор / Рефлектор - Transformers.kiev.ua ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/00/04/2b/00042bd4d1d1a93b5759dade65950f5a.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQysn144MP49m0QWFNS0YMqpR8xIkuLQDF_03bbJuTxuItdvdEOvECpim5R"
+				},
+				{
+					"title": "Decepticon REFLECTOR Tribute - YouTube",
+					"url": "https://i.ytimg.com/vi/0smc7e1pR24/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTeBz1bLyTzltjy8iRsHJXdecECfnTWOLhz16IbrFYg8gGnEe7Gn_H2G-0"
+				}
+			]
 		},
 		{
 			"name": "Shrapnel",
@@ -1866,7 +2471,18 @@
 			"status": "Reformed (Sweep)",
 			"faction": "Decepticon",
 			"category": "Insecticon",
-			"images": []
+			"images": [
+				{
+					"title": "TFW2005 Presents Lil Formers 23 - Shrapnel - Transformer World ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/1969/12/39471457454e77f72a_0.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr1GNE5SMaKxlWiQFaEuo-aI5Wo7YQLjXNLgZWvt8tY5UUZZ8G-df7AP0"
+				},
+				{
+					"title": "Papa Roach - Infest - INSECTICONS - Transformers G1 Generation 1 ...",
+					"url": "https://i.ytimg.com/vi/akom5gzDFZU/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRU9DxAE4ZILSUl71nFkDdQJqoVUGOL8ye7gPROKb6l_8TSOQNXqOXhEDY"
+				}
+			]
 		},
 		{
 			"name": "Bombshell",
@@ -1878,7 +2494,18 @@
 			"status": "Reformed (Cyclonus)",
 			"faction": "Decepticon",
 			"category": "Insecticon",
-			"images": []
+			"images": [
+				{
+					"title": "Bombshell - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/01/bombshell_1231196004.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRaT5gxQ5v7v1zNVsqp8WT870uaOK-fGQmjg7Nx_s85Sz9Lmqtj7pZpY5Q"
+				},
+				{
+					"title": "Transformers: Fall of Cybertron Hardshell - Transformer World 2005 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2012/05/69282_334044023332465_146805978722938_825003_1987142977_n_1337653698.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPMUOKYP7g9BFUtwdPbG511z4cDsyXkss_a0uHT1uW0PML0c0ckh-dSd4"
+				}
+			]
 		},
 		{
 			"name": "Kickback",
@@ -1890,7 +2517,18 @@
 			"status": "Reformed (Sweep)",
 			"faction": "Decepticon",
 			"category": "Insecticon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Generations Fall of Cybertron Deluxe Kickback Toy ...",
+					"url": "https://i.ytimg.com/vi/3eeqyy3wMUE/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ0OvxzxH1SIgrCe999FzU5u8Ns2XxboFBsT0wWaxgRpQTd-3YZImpIjDn"
+				},
+				{
+					"title": "TFW Generations Fall of Cybertron Kickback Gallery - Transformer ...",
+					"url": "http://www.tfw2005.com/transformers-images/toys/images/220177-2/Kickback+Robot+09.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlE9Mx6qGEfPfHVQLQo8uxqxTXfHcgJ3tOvajdwANu-ynq8Gkz5_-d1Ene"
+				}
+			]
 		},
 		{
 			"name": "Hook",
@@ -1902,7 +2540,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Hook - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/01/hook_1231196256.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS09xpcMcGQTEv6vo97-1IBofeszUFNs44yErkEo0tdscp0_hWK5U0SmSBz"
+				},
+				{
+					"title": "Constructicons (Devastator, G1) Hook ( 4 ) (Transformers, G1 ...",
+					"url": "http://www.transformerland.com/image/reference_images/20146.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfnNexwbkWcHnxXUg9_qGc_BdLyGHl2dV4YNmPqhhIeTu78jhwtTKrYg"
+				}
+			]
 		},
 		{
 			"name": "Scrapper",
@@ -1914,7 +2563,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Revenge Of The Fallen Scrapper Artwork - Transformer World 2005 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2009/05/27087289d1243014216-rotf-const_1243015320.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR1O9S--fYc61d5KYRPuYsEnwddC8geNI21CAYyZOA7_66pAEb_cgk9yUIF"
+				},
+				{
+					"title": "Scrapper - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/01/scrapper_1231196723.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvKILxbanCjfsU8ABAAIPYXDaeg3v2XWzLYrvGt_aTtU-TwUxwBnA9qDs"
+				}
+			]
 		},
 		{
 			"name": "Bonecrusher",
@@ -1926,7 +2586,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Clear Images of Transformers Movie Bonecrusher Design ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/1969/12/44182460d1b71cf058_0.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJnwPV1H4DT1VkSh708EznKt_Vtla2jF6OR5GIhoEeu9zPjzRMkQua6zoO"
+				},
+				{
+					"title": "Wallpapers Bonecrusher Transformers 640x598 | #88192 #bonecrusher",
+					"url": "http://www.wallpapersxl.com/wallpapers/640x598/bonecrusher/88192/bonecrusher-transformers-88192.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuMQBhR60_X9-M89W1Yxf0zNsnOK0CKSx6Hy7K4KNOBxfLI3r4a3KIgm1x"
+				}
+			]
 		},
 		{
 			"name": "Long Haul",
@@ -1938,7 +2609,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Devastator Confirmed for Transformers: Revenge of the Fallen ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2008/09/lh_1221060324.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFb8bgBjUoU2059FP1zbQUcZ3EABJmkpKaOJKZho41yZ6Eup1jCyyel8Z0"
+				},
+				{
+					"title": "Transformers Longhaul - YouTube",
+					"url": "https://i.ytimg.com/vi/Ka5MlpnYA4k/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5yOlAJYo3fS6s6-CmCY6H3RkKSahqTOf_CLHL0NvH-CMtXlkOFZN1FPE"
+				}
+			]
 		},
 		{
 			"name": "Scavenger",
@@ -1950,7 +2632,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Scavenger - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2015/02/CONSTRUCTICON-SCAVENGER-R_1423991335.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdOJ2fC6c1Ik87dXmVefvt-0zOywHpZOH2K17EX734CufJOuaBU3yXh9o"
+				},
+				{
+					"title": "Transformers Armada Scavenger - YouTube",
+					"url": "https://i.ytimg.com/vi/2YEuDmBrFfo/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbHRwksD0--0I2QsDjY3IBYwU6gRzjaWQ9SraUp77i-sh_X56cZRaH-xLY"
+				}
+			]
 		},
 		{
 			"name": "Mixmaster",
@@ -1962,7 +2655,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformer ROTF mixmaster Legends class stop motion - YouTube",
+					"url": "https://i.ytimg.com/vi/AmMPmcZgM2c/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQv-pr78N8b8nASRR9bzY_ldK3xBIArriTRG01xogLWHJhKwm6B4K4ICUI"
+				},
+				{
+					"title": "Constructicon MIXMASTER Transform - Short Flash Transformers ...",
+					"url": "https://i1.ytimg.com/vi/eSPNTUenYBc/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRU2Bx41kRnyQzAjTJgsLqbWtnC0b7oc3IjV9Q3OHf5AA76FIkcLojtOxLK"
+				}
+			]
 		},
 		{
 			"name": "Devastator",
@@ -1974,7 +2678,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Constructicon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers revenge of the fallen: Devastator VS Mudflap And ...",
+					"url": "https://i.ytimg.com/vi/2WvLNYpB2L0/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRd8pYpeG5IDd1yOr1rUedol-UgJj6504jMnpAI9HgSiEHbN6zA56zinTfx"
+				},
+				{
+					"title": "New Transformers Case Breakdowns/Listings - Generations Devastator ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/01/devastator_1421108443.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_T_Fbi513MhsW4fAwwU1qaqGLwVc5_tYe94IDvhOeLHW3t-dSnwngLzbG"
+				}
+			]
 		},
 		{
 			"name": "Thrust",
@@ -1986,7 +2701,18 @@
 			"status": "Supposed to be dead.",
 			"faction": "Decepticon",
 			"category": "Conehead",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Armada Thrust - YouTube",
+					"url": "https://i.ytimg.com/vi/e9E5PpLGZ1o/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRzi02yNB-aImuoP55NLXS6stEnRXlcblAXKR8VPZKPFytkKMdPufgNYxwz"
+				},
+				{
+					"title": "Official Images of Transformers Masterpiece NT-11 Thrust ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2016/06/MP_Thrust_03.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREJoaK_6cw2mjBvg8oTOAhIT3wRH2682OFYPRP43wLh8UWuOe_FIdNfw"
+				}
+			]
 		},
 		{
 			"name": "Ramjet",
@@ -1998,7 +2724,18 @@
 			"status": "Supposed to be dead.",
 			"faction": "Decepticon",
 			"category": "Conehead",
-			"images": []
+			"images": [
+				{
+					"title": "Ramjet - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/05/Ramjet-RM_1241551773.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRatBDQGDMM_PFrZkSnzYkjWb1N0Kpha6JWczmLn_fBrw3RrRh-wbwbba80RQ"
+				},
+				{
+					"title": "Takara Masterpiece-11NR Ramjet - Transformer World 2005 - TFW2005.COM",
+					"url": "http://takaratomymall.jp/img/goods/5/4904810842613.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRa4fhdz1y88m0yLeO9rWxsrdGG14VYFpeZvZ6dXv4vFf6ouFWiaiwFoCLm"
+				}
+			]
 		},
 		{
 			"name": "Dirge",
@@ -2010,7 +2747,18 @@
 			"status": "Supposed to be dead.",
 			"faction": "Decepticon",
 			"category": "Conehead",
-			"images": []
+			"images": [
+				{
+					"title": "Deluxe Class Dirge (Transformers, Movie - Revenge of the Fallen ...",
+					"url": "http://www.transformerland.com/image/reference_images/37121.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsFrtQ2v7FCaINOz8Z8LQ8Ie3KxR7hHU0Tsj3qwpoGk6lYuRvmeDWS1A"
+				},
+				{
+					"title": "Dirge - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2009/01/dirge_1231196204.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRHKWDu9hrpXFVExJON8M2SrYlo-Dt6LHE7io-1_aPB1Se1hCFh0LLvtBs"
+				}
+			]
 		},
 		{
 			"name": "Trypticon",
@@ -2022,7 +2770,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Decepticon City",
-			"images": []
+			"images": [
+				{
+					"title": "Trypticon (Ground) - FINAL BOSS FIGHT - Transformers : War for ...",
+					"url": "https://i.ytimg.com/vi/tHQ_TV-ccZk/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQykMfW1_GDqsy3wwe6OYMo91tfyjOCaZ8jQzrAdHu0DRgjzZxU5_sOyzs"
+				},
+				{
+					"title": "Trypticon wins Titan Class Fan's Choice Vote - New Toy Coming in ...",
+					"url": "http://i1256.photobucket.com/albums/ii493/RedAlbot/12301759_931380200265508_6595831837283144284_n_zpszdhkk7vh.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwx-LOIgDvN25mvmqlscAGZa-Ic4h2K4rNORvjBeqvdmu2T8EsnikgVa8"
+				}
+			]
 		},
 		{
 			"name": "Motormaster",
@@ -2034,7 +2793,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Stunticon",
-			"images": []
+			"images": [
+				{
+					"title": "Motormaster - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/11/motormaster_stunticon_giftset_1226773798.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDzSZlh-nAJi520tjRCHCuOmyPYAMbplm_vkKzQxWPFRICRYab9H5hwylD"
+				},
+				{
+					"title": "Motormaster by livefreeash.deviantart.com on @DeviantArt ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/32/af/89/32af89035e3bdf3a45c10b7018a20b23.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSDybWLigRJRXTk4NS74K7sVOFNnRgb_AUMY3TMNwlemD4I-dGDphvNC8"
+				}
+			]
 		},
 		{
 			"name": "Drag Strip",
@@ -2046,7 +2816,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Stunticon",
-			"images": []
+			"images": [
+				{
+					"title": "New Images of Universe Special Edition Optimus Prime, Megatron ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2008/09/ds_1222173744.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTPZyGrZh7GVAnFV0Yz58MXMrd6Pov_nMOalnVNLLDYBnZ_ksDI3D_8N27Y"
+				},
+				{
+					"title": "Drag Strip | Transformers | Pinterest",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/ac/d8/1e/acd81eb615a4b878f1c48f23da4e8781.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkTUp_YyTz0Ryk5n-vqB4wz91gIeUr7ijJXn-L0wSZQNuLTOBdZLont6H"
+				}
+			]
 		},
 		{
 			"name": "Dead End",
@@ -2058,7 +2839,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Stunticon",
-			"images": []
+			"images": [
+				{
+					"title": "Images Of Transformers: Prime Airachnid, Deadend & Ultra Magnus ...",
+					"url": "http://www.tfw2005.com/transformers-news/attach/7/3/8/6/3/Deadend-Transformers-Prime_1333221563.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQHp7vuoffKLHFGo0vr8l5MhS3pT5cPJec4M4TFb7uzWyS3trQQM2LILSkF"
+				},
+				{
+					"title": "Dead End | Stunticons (スタントロン) | Pinterest | Libraries",
+					"url": "https://s-media-cache-ak0.pinimg.com/564x/9e/80/f9/9e80f98a93a66148bf0a7c042a90b5bf.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdSRnMe7uZgZTE9oOqYv0zVgtrIQn9-_BgE-pO7pMG8l4PB83fAFzWQSvz"
+				}
+			]
 		},
 		{
 			"name": "Breakdown",
@@ -2070,7 +2862,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Stunticon",
-			"images": []
+			"images": [
+				{
+					"title": "Breakdown - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/11/breakdown_1226772605.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8U9ikaB3WhtC2yw6Yhos9jJPtLVIX59eI-N1Snv4F5ePLROjmzUKPdg"
+				},
+				{
+					"title": "Transformers Prime. R.I.P Breakdown. - YouTube",
+					"url": "https://i.ytimg.com/vi/DIVjD6ZtlZk/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjmvVg7_VoF2wUiPDAiwH3-hK8g11-i3uJcghZR4serygjRArw_Qdq7gma"
+				}
+			]
 		},
 		{
 			"name": "Wildrider",
@@ -2082,7 +2885,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Stunticon",
-			"images": []
+			"images": [
+				{
+					"title": "Rumor - Combiner Wars Slingshot & Wildrider Incoming ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/01/wildrider_1226775344_1421904032.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhIYgcChi0Cd_0EKk2L-zq-RfLY1BOXFAEV7chM19b1nh9yfn54IGN2A"
+				},
+				{
+					"title": "Judge Dredd - G.I. Joe - Ethan Mongin | Best JUDGE DREDD ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/236x/ce/13/1b/ce131bbf742a12d1406877188c39dd62.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTrH6NY04Go9HJoHuAesnU_zXGO0KXoUBrPhPiX2UJOQ4v5MxZze5aFR68"
+				}
+			]
 		},
 		{
 			"name": "Menasor",
@@ -2094,7 +2908,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Stunticon",
-			"images": []
+			"images": [
+				{
+					"title": "Menasor - Stunticon | Transformers | Pinterest",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/e9/03/c5/e903c5f3039f33b9c8f36dbe87d02351.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTzt3jMKEChjznSP5VsorxoKWmscthSN0Qjb6tQDsxeYc8UwsuCrjuN9kON"
+				},
+				{
+					"title": "TRANSFORMERS: Devastation Devastator and Menasor battle - YouTube",
+					"url": "https://i.ytimg.com/vi/F-nMo3pox8M/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTES1c4DqPSIZ26A2fJR9-EOUi98WXOsOkSpNfwOUJ1uMmcqk-_YOtL-0Q6"
+				}
+			]
 		},
 		{
 			"name": "Brawl",
@@ -2106,7 +2931,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Combaticon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Brawl Bust by Prime 1 Studio | Sideshow Collectibles",
+					"url": "http://www.sideshowtoy.com/assets/products/902329-brawl/lg/902329-brawl-001.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuwuNuOzyEKWVj5LRNGY302vc_FEAvT9nT7vRUc1TNNAN4UGFZPr5NMOw"
+				},
+				{
+					"title": "BRAWL Transform - Short Flash Transformers Series - YouTube",
+					"url": "https://i.ytimg.com/vi/0weqAA6ln5g/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnpjfi9alAe1MA2x3GOeOhBW3dIRZ-_UpqP9H8US_xsX50oTU81RvvNTo"
+				}
+			]
 		},
 		{
 			"name": "Swindle",
@@ -2118,7 +2954,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Combaticon",
-			"images": []
+			"images": [
+				{
+					"title": "TFA: Swindle : Yes, It Certainly Is - YouTube",
+					"url": "https://i.ytimg.com/vi/je5caEFgAUI/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSr1Rk0QLAmWOVuwXSeoF4X5fuP56DJRyHJxySI1posbEtey33iXXZ9WWnl"
+				},
+				{
+					"title": "Swindle - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/10/sw1_1224243860.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRK0a3H5z_2tIX0KpKnuasi19nhtAYHODaQCF6gbFR6Ji68N32k7eXwCLU"
+				}
+			]
 		},
 		{
 			"name": "Blast Off",
@@ -2130,7 +2977,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Combaticon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Rise of The Dark Spark Escalation on Ignition with ...",
+					"url": "https://i.ytimg.com/vi/PKzuuTXKTCM/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXfvugdNB-4ZW66uGsv4Xz14Ziv1m9cwGHejdJUTdCL8oZFf88Q3298wA"
+				},
+				{
+					"title": "Transformers Fall of Cybertron - Blast Off Multiplayer Gameplay ...",
+					"url": "http://i.ytimg.com/vi/_4Nm6ljcJwc/0.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6ZLhxWzPhUk6uwhmd5PsneipOyV8w48mmguzbhfqCraNRch2j4Tk5PKs"
+				}
+			]
 		},
 		{
 			"name": "Vortex",
@@ -2142,7 +3000,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Combaticon",
-			"images": []
+			"images": [
+				{
+					"title": "Dark of the Moon Vortex Official Images Japan Exclusive ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2011/05/371663500A_1305569762.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSoncPVG92KR09L2yx_A3kj4FFRYlrbC6WQjJ2JenylO9uqxSKJHdBL4brR3g"
+				},
+				{
+					"title": "Vortex - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2012/10/Rotor-Rage-Vortex_1350917451.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRlCEylImYEzk_B4VuwJWzItaEcwwSsvgs4zoklW-zFn83CwCNYEllifHQ"
+				}
+			]
 		},
 		{
 			"name": "Onslaught",
@@ -2154,7 +3023,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Combaticon",
-			"images": []
+			"images": [
+				{
+					"title": "Onslaught | Transformers Decepticons | Pinterest | Html",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/07/70/a7/0770a7cc06e6e8cb0ae6f54e09bfefad.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1jyjaa-WaCIP4oE9qLLnkL5n60EzgLoVbBl6pPM_b0teLWhZd9p6p5nU8"
+				},
+				{
+					"title": "Onslaught - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2010/06/slaught_2_1277038603.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRvbgf1tkAUhoUCVxvxBZpnff4Q7SAvFef-_gw3qgBgrIngwWcAyG-PhXpQ"
+				}
+			]
 		},
 		{
 			"name": "Bruticus",
@@ -2166,7 +3046,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Combaticon",
-			"images": []
+			"images": [
+				{
+					"title": "Rumor - Combiner Wars Combaticons Listings and More - Transformer ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/04/300px-Bruticusg1guido_1429851181.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfsA3UH9jwUyn8EM7mm9RqsdplS8EuwnBNyU-6ufVdU3KwbT6Mq8n_NA"
+				},
+				{
+					"title": "ToyArena Update -Bruticus, Soundwave, Striker, PE-12 and More ...",
+					"url": "http://www.toyarena.com/images/4904810463450.JPG",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8XbCtdc6DIhX3WMLpPPUS_mjsXqvNoCJQIsSf6N9_csYcXvVvNp1TlGuw"
+				}
+			]
 		},
 		{
 			"name": "Galvatron",
@@ -2178,7 +3069,18 @@
 			"status": "Alive (Dead in Transformers: Headmasters)",
 			"faction": "Decepticon",
 			"category": "Herald of Unicron",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Galvatron Polystone Statue by Prime 1 Studio ...",
+					"url": "http://www.sideshowtoy.com/wp-content/uploads/2015/10/transformers-galvatron-statue-prime1-thumb-9025031.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbmEi_Vz7FQZHIlojDwfUZDgeXTRA3EczyRQUoqmmhMiDLdjFB7jgWxg"
+				},
+				{
+					"title": "Transformers 4 Age of Extinction - Galvatron, The Remote ...",
+					"url": "https://i.ytimg.com/vi/EajU1gXmAhs/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShDQvdt-fIEa9uU-J4KCc_pY3KR2fbqwT4GD6Of7SfMZdg5ehiOb7c18Cq"
+				}
+			]
 		},
 		{
 			"name": "Cyclonus",
@@ -2190,7 +3092,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Herald of Unicron",
-			"images": []
+			"images": [
+				{
+					"title": "Cyclonus SSTA - Album on Imgur",
+					"url": "http://tfwiki.net/mediawiki/images2/thumb/6/6c/CyclonusPioneerDVD1.jpg/250px-CyclonusPioneerDVD1.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5gTh8SDNASLKoiAZ59TIZ_SO73flHqg3lgW_epOiUe6Gr6bdXxuE2rC4"
+				},
+				{
+					"title": "Revelations, Part 1 - Spotlight Cyclonus - Transformers Comics ...",
+					"url": "http://comics.tfw2005.com/wp-content/uploads/sites/11/2010/02/transformers-comics-spotlight-cyclonus-revelations-part-1-cover-b_1266632442.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMK-84DodQSsdJi3wpDqjuszJJEualTnO4d2lRq5KuLj1ZqaOLGh9GAAK8"
+				}
+			]
 		},
 		{
 			"name": "Scourge",
@@ -2202,7 +3115,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Herald of Unicron",
-			"images": []
+			"images": [
+				{
+					"title": "New Images of Transformers United/Generations Scourge and ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/10/transformers-united-scourge_1287062188.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQz49dKW9VFdZ1mawyqjzaLeOR3Qfq2sHt5PuQAYRu-q5vKjDAnKpzfKFM"
+				},
+				{
+					"title": "Takara Transformers Legends Scourge, Shockwave & Blurr Colored ...",
+					"url": "https://s3.amazonaws.com/tf.images/reduced-image_11613_106.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGM5OIEDcePsBVw4_m0Yns5zowgaXlbvOyH3497SLxS6a5aUOV41dTq_wVg"
+				}
+			]
 		},
 		{
 			"name": "Sweeps",
@@ -2214,7 +3138,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Herald of Unicron",
-			"images": []
+			"images": [
+				{
+					"title": "Dark Of The Moon - 16 Weeks Of Cyber Sweeps More Than Meets The ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2011/06/Transformers-3-Dark-Of-The-Moon-16-Weeks-Of-Cyber-Sweeps-More-Than-Meets-The-Eye_1307753367.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMb_8veMZSOAwYpORqo28XC8EVYl5QSSBwNecu0l3pvxN_vbs0Tb3kWgKN"
+				},
+				{
+					"title": "RUMOR: Galvatron, Cyclonus, Sweeps in Transformers Age of ...",
+					"url": "https://i.ytimg.com/vi/HwXzoTafiuE/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfos3-bI86PIGJlePETGYUzEIiuyQdI1CvJm6EQ9-yGTWiX1v0jsVhl3O6"
+				}
+			]
 		},
 		{
 			"name": "Octane",
@@ -2226,7 +3161,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Multi Changer",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Universe/Classics 2.0 Tankor (Octane) - YouTube",
+					"url": "https://i.ytimg.com/vi/UHiQuQG1q4M/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgETIpULWSYOKO2vVqA7zTXDiza_aiA0H62Vzlgok8DaDaMIn_62GzUa53"
+				},
+				{
+					"title": "Agan2 ada yg masih inget filmnya kaga? - Page3 | KASKUS",
+					"url": "http://www.transformerscustomtoys.com/wp-content/uploads/2011/03/transformers-octane-triplechanger-www.transformerscustomtoys.com_.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRHVonCQWWyQ0F58b5odzmHxVSm0uvTnsfstDygwKPsl017KqltVqqQw5Q"
+				}
+			]
 		},
 		{
 			"name": "Blitzwing",
@@ -2238,7 +3184,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Multi Changer",
-			"images": []
+			"images": [
+				{
+					"title": "Blitzwing -Transformers Generations (2013) - YouTube",
+					"url": "https://i.ytimg.com/vi/QFBPOG3T-a8/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfzz4hsD1v4FxM_8ZQ_fAq9AEUW1Xt9IXGe1GFjd1B49wMgZ0eFL_Kcg0"
+				},
+				{
+					"title": "Blitzwing - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2013/02/A2563-BLITZWING-Vehicle-Mode-1_1360456623_1360500600.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2XePRRnKtZ3e9JC4atj-h2udWLIbJGW1qyQhMqxbEeBJZ8MGOdz1qy4s"
+				}
+			]
 		},
 		{
 			"name": "Astrotrain",
@@ -2250,7 +3207,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Multi Changer",
-			"images": []
+			"images": [
+				{
+					"title": "Astrotrain | My inner geek | Pinterest | Cards, Deviantart and ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/88/f6/a1/88f6a15a2ae6c7fd7315c30e7d1423ca.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQykc5yC0IswSSiHe9Kr2RkfJUavhH4WLeosWTevvc5BqZA7FetEv-6KIWp"
+				},
+				{
+					"title": "Transformers Parody - Astrotrain likes Trains - YouTube",
+					"url": "https://i.ytimg.com/vi/Vd7SobAwhZo/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYz-yiFLxKskFitZltBCPgwi5yTdPUsB7eIOPHyk--GIPNEo8YTRjLWt4Z"
+				}
+			]
 		},
 		{
 			"name": "Sixshot",
@@ -2262,7 +3230,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Multi Changer",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers G1: SixShot - YouTube",
+					"url": "https://i.ytimg.com/vi/TkHYP4cP9OQ/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQOJWqLVqlSjPMYJxgGoKlI42dVxIthSz_jiyyCM0OqQCdUx2mp5lLfSB9D"
+				},
+				{
+					"title": "Images of Wonderfest 2010 exclusive third party Transformers kits ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2010/02/4324485829_68f165f54b_o_1265632980.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1r66q1Ba201AgO-pjexE3kmJ94_4_buV0CJ5J3YcE-63OhBlEtI2gImI"
+				}
+			]
 		},
 		{
 			"name": "Tantrum",
@@ -2274,7 +3253,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Predacon",
-			"images": []
+			"images": [
+				{
+					"title": "Predacons (Predaking) Tantrum ( 5 ) (Transformers, G1, Decepticon ...",
+					"url": "http://www.transformerland.com/image/reference_images/1467.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCofocWuFxaIeo1gSoRh_oW4e8K_S2dqtbiLHSYpR6-0GivONvvK36g"
+				},
+				{
+					"title": "Transformers review MMC vs UT vs TFC: Tantrum - YouTube",
+					"url": "https://i.ytimg.com/vi/GrDsOPMKSbk/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSntollF0FsLptVokHZcuV2c89QxTEFXczT2O_bSVpywY46Iou8EgZp7VN"
+				}
+			]
 		},
 		{
 			"name": "Rampage",
@@ -2286,7 +3276,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Predacon",
-			"images": []
+			"images": [
+				{
+					"title": "On a rampage | The Indian Express",
+					"url": "http://images.indianexpress.com/2014/07/transformers2671.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSVYwmdp5b8hPgXNmb76Y_OH5LEqDKghe4WKVGh_-dbFMq8DI5hUHDinlQ"
+				},
+				{
+					"title": "Revenge of the Fallen Sideswipe, Rampage, Breakaway in Package ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2009/02/rampage_1234887814.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQoBhhP76XjSWGn9uCjXfmPVgTxJs8y4rWeeM9JyQMKPKOwbJDKJWSpLW1Q"
+				}
+			]
 		},
 		{
 			"name": "Headstrong",
@@ -2298,7 +3299,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Predacon",
-			"images": []
+			"images": [
+				{
+					"title": "Predacons (Predaking) Headstrong ( 3 ) (Transformers, G1 ...",
+					"url": "http://www.transformerland.com/image/reference_images/1443.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdT-yCxioPHqEm9edf8M8KuEtjfkeAyh08So2u9LsyX3aMt7dJehdIyw"
+				},
+				{
+					"title": "Headstrong - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2013/10/Headstrong_1381179644.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOonqssaLX_734498KoJjCMsF3K-7y-eOW2uoQNJqCh3Lx4t0k9eUQ2T0"
+				}
+			]
 		},
 		{
 			"name": "Razorclaw",
@@ -2310,7 +3322,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Predacon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers G1 Razorclaw - YouTube",
+					"url": "https://i.ytimg.com/vi/jIRP-X6xPpM/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2JOsy7m94cAgLU8Gk9QQa7mOwxwVCOfwkmSJTThZq_S_6Rn3Go1VKrmpU"
+				},
+				{
+					"title": "Razorclaw (Decepticon) | The Transformers you've never heard of ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/28/09/48/28094874ddecf11330ae57c4398b016e.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgvfnsXq-1lLZtJ8COF8-IEq-Xlu2ZUPQBzvbKT68DCT0Cx4y6UknlKTti"
+				}
+			]
 		},
 		{
 			"name": "Divebomb",
@@ -2322,7 +3345,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Predacon",
-			"images": []
+			"images": [
+				{
+					"title": "Airazor and Divebomb, more Mini-con cuties! ^^ | transformers ...",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/36/a0/26/36a02697534ff559909e7b07c4b8f782.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl4nrn8-2yZD-jZOi0cfyCCBXtI4lDNlZfZOOw2BaQNTKsws5o8CMzIg"
+				},
+				{
+					"title": "Transformers Unquietoys Warhawk (G1 Divebomb) swedish review - YouTube",
+					"url": "https://i.ytimg.com/vi/NXyUUT2uqao/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLNPNAmHB5OPDgs9ThOd_gaK1WRjsbKSyqlrkMfsqhqG_6KX-yGN2-OP87"
+				}
+			]
 		},
 		{
 			"name": "Predaking",
@@ -2334,7 +3368,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Predacon",
-			"images": []
+			"images": [
+				{
+					"title": "Predaking | Anime | Pinterest | Transformers",
+					"url": "https://s-media-cache-ak0.pinimg.com/736x/4e/23/bd/4e23bdd4852ddef1935d2a95ebcb4f92.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR2OQ2o6tLy4BvDl81flga1MK1qAhjkK14D7WfXLb8j1-OrtIMNsvpf_OY"
+				},
+				{
+					"title": "Transformers Prime Beast Hunters Predaking Robot Mode Revealed ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2012/11/HAS22373_1354222730.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSvBK7p2fJq53mMT9OUUoYcqfvuK47Ktvgf0nNDBNg1yXQQR9AqX_sS_tA"
+				}
+			]
 		},
 		{
 			"name": "Runamuck",
@@ -2346,7 +3391,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Battlecharger",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Collectors' Club Update: Runamuck Shipping ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2012/04/runamuck_1334286837.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIHPsp-f94NBaYquBegMa64vj27lV3kP2wLp9OLwq8-4oxSXKLI_zktyM"
+				},
+				{
+					"title": "Transformers Collectors Club Runamuck Revealed - Transformer World ...",
+					"url": "http://www.tfw2005.com/boards/attachments/transformers-news-rumors/27275260d1327431999-final-tfcc-runamuck-revealed-runamuckbotweb2.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7rAM9k9Gd4Scr-pg9xVrHXtZFEcls4e_-y0Eqjitu5ArkZ3MZVJm6y9kN"
+				}
+			]
 		},
 		{
 			"name": "Runabout",
@@ -2358,7 +3414,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Battlecharger",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Collectors Club Over-Run and Shattered Glass Drift ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2012/01/2533_1327960122.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcThSwhxjcZy_bnq7FdfOgRZFKpvfeQWO4nnPEt6TVZ-7UPcVheg6vThiw"
+				},
+				{
+					"title": "Transformers - Runabout's got a thin head - YouTube",
+					"url": "https://i.ytimg.com/vi/goC7BmvLVv8/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIXNKhM1dmrG275jtn5M1tANZVniDIEwfztZx3LLCdwfKuhyER82OipbQ"
+				}
+			]
 		},
 		{
 			"name": "Rippersnapper",
@@ -2370,7 +3437,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Terrorcon",
-			"images": []
+			"images": [
+				{
+					"title": "Transformers Review - G1 RIPPERSNAPPER - YouTube",
+					"url": "https://i.ytimg.com/vi/mYNktAGB5js/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORb2yAagJAqNMZnsQS9WpjAqw63W1WuZKCp29P9z0vZnvSrcOWdkZhnby"
+				},
+				{
+					"title": "Predacon Rippersnapper - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2013/02/combiner_rippersnapperRobot_1360458954_1360502387.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQqo80-r_-XmNbp3KH8p58tjohs03aGQrMufGkhaMwTg9Sf_--4dN78c0"
+				}
+			]
 		},
 		{
 			"name": "Blot",
@@ -2382,7 +3460,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Terrorcon",
-			"images": []
+			"images": [
+				{
+					"title": "Blot - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/06/instr_blot_1212925788.jpg",
+					"thumbnailUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTQAW6jGiQd_QpnOhc6XQDN2CLMLPh4oEMvpSr19TNOqV-FKchyEQhHMv8Z"
+				},
+				{
+					"title": "Unique Toys Ordin (\"Abominus\") and First Member Troll (Blot ...",
+					"url": "http://www.tfw2005.com/boards/attachments/transformers-3rd-party-discussion/27465508d1409903120-unique-toys-ordin-troll-not-blot-uqt10013.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxYOF8ZxcFwn17XXNIkwmcWTWZuZwnpKezEl7eUDqxRhk5HfPG3q5nXhA"
+				}
+			]
 		},
 		{
 			"name": "Sinnertwin",
@@ -2394,7 +3483,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Terrorcon",
-			"images": []
+			"images": [
+				{
+					"title": "Sinnertwin - Transformers Toys - TFW2005",
+					"url": "http://toys.tfw2005.com/wp-content/uploads/sites/12/2008/12/sinnertwin_1229495066.jpg",
+					"thumbnailUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFF8vtbUlng3WvKAblwnZEZ1RJISX4GmHxnkO2uYt-zUvW2yaQwZCTj3W6kQ"
+				},
+				{
+					"title": "Unique Toys Fenrir / Sinnertwin Images - Transformer World 2005 ...",
+					"url": "http://news.tfw2005.com/wp-content/uploads/sites/10/2015/01/10922505_824335770945406_7338555659723280434_n_zpse3dff00e_1421241957.jpg",
+					"thumbnailUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLf18hSieLx4v-vOZQmN_24chJ4ypbtiVmWFFjQpkApxZBjbwld9jLIa-y"
+				}
+			]
 		},
 		{
 			"name": "Cutthroat",
@@ -2406,7 +3506,18 @@
 			"status": "Alive",
 			"faction": "Decepticon",
 			"category": "Terrorcon",
-			"images": []
+			"images": [
+				{
+					"title": "Terrorcons (Abominus) Cutthroat ( TR3 ) (Transformers, G1 ...",
+					"url": "http://www.transformerland.com/image/reference_images/2102.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTst7xVWd6vnBV0eeguICuDQx3JUZ0xHXOnxsKhiPThjimImfK4ZWG4Z_8"
+				},
+				{
+					"title": "Transformers Review - G1 RIPPERSNAPPER - YouTube",
+					"url": "https://i.ytimg.com/vi/mYNktAGB5js/hqdefault.jpg",
+					"thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQORb2yAagJAqNMZnsQS9WpjAqw63W1WuZKCp29P9z0vZnvSrcOWdkZhnby"
+				}
+			]
 		},
 		{
 			"name": "Hun-Gurrr",
